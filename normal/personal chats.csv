@@ -1,0 +1,1001 @@
+id,category,sender,recipient,timestamp,message
+1,Family,Uncle,Sis,2025-08-03 01:17:57,Have you eaten? :)
+2,Work/Colleague,Raj (PM),Client,2025-11-10 02:58:06,Reminder: submit timesheets.
+3,Friend,Alex,Taylor,2025-04-24 22:21:13,What's the plan this weekend?...
+4,Couple,You,You,2025-06-03 20:15:45,Can't stop thinking about you.!
+5,Friend,Sam,Sam,2025-10-06 17:18:34,Let's plan a trip soon!!
+6,Work/Colleague,Liam (QA),Team,2025-02-24 01:50:05,Who will cover the support shift???
+7,Mixed/Generic,User1,Contact,2025-01-07 07:51:36,I can't believe this happened! 😂
+8,Work/Colleague,Chris (Lead),All,2025-11-01 22:04:55,I'll be WFH tomorrow.
+9,Work/Colleague,Priya (Dev),Team,2025-07-05 13:52:17,Meeting moved to 3 PM.!
+10,Family,Dad,Sis,2025-08-09 20:39:33,Don't forget your jacket! - can't wait
+11,Work/Colleague,Chris (Lead),All,2025-07-23 00:25:49,Meeting moved to 3 PM....
+12,Couple,Love,You,2025-10-27 22:02:25,Can't stop thinking about you. - can't wait
+13,Work/Colleague,Emma (HR),You,2025-08-08 09:43:45,I'll be WFH tomorrow.
+14,Work/Colleague,Priya (Dev),Client,2024-12-30 13:40:24,I'll be WFH tomorrow.!
+15,Friend,Taylor,Riley,2025-04-19 09:08:02,Did you watch that new series?🙏
+16,Couple,Partner,Partner,2025-11-01 02:23:15,You always make me smile ❤️
+17,Friend,Morgan,Sam,2025-05-13 08:41:02,Did you watch that new series?!
+18,Mixed/Generic,User2,Contact,2024-12-12 02:12:32,Thanks a lot!
+19,Family,Sis,Sis,2025-06-27 14:33:01,Take care of the dog while I'm away.
+20,Friend,Riley,Jordan,2025-10-01 07:36:47,"Hey, are you free tonight?..."
+21,Friend,Taylor,Jordan,2025-09-03 10:44:29,What's the plan this weekend? - can't wait
+22,Mixed/Generic,User1,Contact,2025-03-20 05:40:14,Thanks a lot! - can't wait
+23,Friend,Riley,Taylor,2025-07-24 09:43:22,Let's plan a trip soon!
+24,Mixed/Generic,Contact,Group,2025-02-26 01:48:03,"BRB, phone's dying."
+25,Friend,Jordan,Riley,2025-01-18 14:58:25,I aced the presentation today!...
+26,Mixed/Generic,Contact,Contact,2024-11-24 19:01:49,Thanks a lot! :)
+27,Couple,Honey,Partner,2025-07-21 22:11:55,Did you take your meds today?
+28,Friend,Taylor,Taylor,2025-10-19 07:24:07,"Hey, are you free tonight?"
+29,Friend,Alex,Casey,2025-03-06 21:42:51,Wanna grab coffee tomorrow?
+30,Friend,Taylor,Jordan,2025-02-02 13:10:13,I aced the presentation today!🙏
+31,Friend,Morgan,Taylor,2025-10-06 06:23:12,I aced the presentation today!
+32,Couple,Honey,Partner,2024-12-15 06:35:17,Let's have a movie night in.
+33,Mixed/Generic,User1,Group,2025-09-30 21:19:35,"BRB, phone's dying. - can't wait"
+34,Friend,Jamie,Jordan,2025-08-23 20:14:17,What's the plan this weekend?!
+35,Couple,Honey,You,2024-12-26 10:41:51,"Miss you, come home safe."
+36,Work/Colleague,Priya (Dev),All,2025-03-21 12:51:14,Meeting moved to 3 PM.!
+37,Friend,Alex,Jordan,2025-11-23 16:09:53,Can you pick me up at 6?!
+38,Friend,Riley,Morgan,2024-12-21 12:39:38,I aced the presentation today!...
+39,Friend,Taylor,Alex,2025-02-21 04:09:37,That meme you sent cracked me up 😂🙏
+40,Work/Colleague,Raj (PM),Client,2025-02-27 00:38:51,Can you review the report?...
+41,Friend,Sam,Jordan,2025-01-25 03:54:19,What's the plan this weekend?
+42,Family,Bro,Mom,2025-07-21 09:18:06,Dinner at mom's on Sunday.🙏
+43,Family,Mom,Bro,2025-02-08 11:20:44,Can you pick up some milk?🙏
+44,Couple,Partner,Partner,2025-07-12 15:58:10,Can't stop thinking about you. :)
+45,Friend,Jamie,Casey,2025-11-20 13:41:38,That meme you sent cracked me up 😂
+46,Family,Mom,Mom,2025-08-07 11:57:39,Can you pick up some milk?...
+47,Friend,Sam,Taylor,2025-07-03 00:38:10,Let's plan a trip soon! - can't wait
+48,Couple,Bae,You,2025-06-25 02:36:29,Can't wait to see you later....
+49,Mixed/Generic,User2,Friend,2025-02-15 00:43:12,On my way 🚗
+50,Friend,Taylor,Casey,2024-12-08 07:17:16,Call me when you're free. :)
+51,Work/Colleague,Emma (HR),You,2025-10-08 07:17:10,Reminder: submit timesheets.
+52,Couple,You,You,2025-09-19 07:10:59,Can't stop thinking about you. - can't wait
+53,Mixed/Generic,Contact,Group,2024-11-28 14:48:29,On my way 🚗...
+54,Family,Mom,Dad,2025-11-06 16:56:13,Remember to call your grandmother....
+55,Family,Bro,Dad,2025-06-20 17:06:11,"Bring umbrellas, it's raining here."
+56,Work/Colleague,Liam (QA),All,2024-12-19 02:38:13,Can you review the report? :)
+57,Couple,Honey,You,2025-09-02 23:56:00,Can't wait to see you later. :)
+58,Work/Colleague,Priya (Dev),You,2024-12-17 21:20:39,Can you review the report?!
+59,Friend,Morgan,Alex,2025-08-03 23:06:48,Wanna grab coffee tomorrow???
+60,Work/Colleague,Liam (QA),You,2025-08-03 05:31:05,Any updates on the ticket? :)
+61,Family,Sis,Sis,2025-07-05 17:35:41,Are you coming home this weekend?
+62,Family,Uncle,Sis,2025-09-26 20:52:09,Are you coming home this weekend?
+63,Friend,Alex,Sam,2025-04-16 17:47:37,That meme you sent cracked me up 😂🙏
+64,Work/Colleague,Emma (HR),Team,2025-02-02 23:27:32,I'll be WFH tomorrow.!
+65,Friend,Alex,Taylor,2025-04-19 03:49:55,Can you pick me up at 6? - can't wait
+66,Mixed/Generic,Contact,Group,2025-06-24 11:54:57,That sounds perfect.
+67,Couple,Bae,Partner,2025-02-15 01:44:43,Let's have a movie night in. 😂
+68,Friend,Jordan,Riley,2025-02-18 06:21:53,Can you pick me up at 6?!
+69,Couple,Honey,Partner,2025-04-12 14:16:52,You always make me smile ❤️??
+70,Family,Bro,Dad,2025-07-02 11:36:45,Take care of the dog while I'm away.
+71,Family,Sis,Mom,2024-12-15 19:04:39,Can you pick up some milk? :)
+72,Friend,Jordan,Alex,2025-07-22 13:04:49,"I'm running late, save me a seat."
+73,Family,Bro,Bro,2025-08-17 16:23:58,Remember to call your grandmother.🙏
+74,Couple,Partner,You,2025-04-21 22:24:43,You always make me smile ❤️
+75,Friend,Jamie,Alex,2025-07-21 01:57:40,What's the plan this weekend?...
+76,Couple,Love,Partner,2025-01-15 12:00:04,I packed your favorite snack.??
+77,Couple,Honey,You,2025-04-08 20:56:34,Can't wait to see you later.??
+78,Work/Colleague,Chris (Lead),Client,2025-07-07 14:21:52,Do you have the client notes? :)
+79,Friend,Taylor,Riley,2025-06-14 10:42:48,That meme you sent cracked me up 😂 - can't wait
+80,Friend,Taylor,Morgan,2024-11-28 22:35:23,Did you watch that new series?
+81,Friend,Casey,Jamie,2025-10-24 22:50:56,Can you pick me up at 6?!
+82,Work/Colleague,Chris (Lead),Team,2025-05-14 13:00:48,Let's sync after lunch.🙏
+83,Friend,Riley,Morgan,2025-02-22 10:29:44,Let's plan a trip soon!!
+84,Work/Colleague,Emma (HR),All,2025-04-15 12:41:52,Great job on the demo! 😂
+85,Friend,Morgan,Jordan,2025-09-20 07:43:26,Let's plan a trip soon!??
+86,Family,Aunt,Mom,2024-12-30 14:46:27,Are you coming home this weekend?
+87,Friend,Jordan,Alex,2025-05-14 18:27:40,I aced the presentation today! 😂
+88,Friend,Casey,Morgan,2025-04-23 21:11:41,Let's plan a trip soon! 😂
+89,Work/Colleague,Raj (PM),Team,2025-08-02 06:42:31,Any updates on the ticket? - can't wait
+90,Friend,Alex,Taylor,2025-11-14 07:45:27,"Hey, are you free tonight? :)"
+91,Friend,Jamie,Sam,2025-08-05 13:26:54,Did you watch that new series?🙏
+92,Family,Dad,Mom,2025-06-19 02:26:38,Don't forget your jacket!
+93,Family,Aunt,Bro,2025-08-16 03:36:45,How's school/work going?!
+94,Family,Mom,Sis,2025-09-24 09:46:29,Dinner at mom's on Sunday.🙏
+95,Work/Colleague,Chris (Lead),Client,2025-10-20 11:57:29,I'll be WFH tomorrow. - can't wait
+96,Family,Bro,Bro,2025-04-17 17:11:34,Have you eaten?
+97,Family,Uncle,Dad,2025-08-26 11:23:00,Send the grocery list.!
+98,Mixed/Generic,Contact,Contact,2025-03-31 14:31:15,Happy birthday! 🎉??
+99,Work/Colleague,Liam (QA),You,2025-10-11 20:13:27,Who will cover the support shift? :)
+100,Work/Colleague,Emma (HR),Client,2025-11-10 12:22:57,Great job on the demo! - can't wait
+101,Work/Colleague,Emma (HR),All,2025-07-15 17:59:18,Please share the slides by EOD. - can't wait
+102,Friend,Riley,Alex,2025-08-20 03:15:45,Call me when you're free....
+103,Friend,Jamie,Taylor,2024-12-29 12:30:34,Can you pick me up at 6???
+104,Couple,You,Partner,2025-05-01 21:31:16,"Good morning, love ☀️ :)"
+105,Couple,Bae,Partner,2025-02-26 17:51:50,Love you to the moon....
+106,Couple,Bae,Partner,2025-07-09 19:12:57,Can't wait to see you later.??
+107,Friend,Taylor,Casey,2025-02-23 23:38:19,Wanna grab coffee tomorrow?
+108,Friend,Riley,Riley,2025-08-17 19:35:37,I aced the presentation today!
+109,Friend,Riley,Alex,2025-09-21 20:23:32,Did you watch that new series?...
+110,Friend,Riley,Jordan,2025-10-04 05:55:59,"Hey, are you free tonight???"
+111,Family,Bro,Bro,2025-08-23 04:30:32,Send the grocery list. - can't wait
+112,Friend,Sam,Sam,2025-03-19 03:40:56,I aced the presentation today!!
+113,Family,Dad,Dad,2025-06-23 03:16:42,Have you eaten?🙏
+114,Mixed/Generic,Contact,Group,2025-01-23 07:51:49,"BRB, phone's dying.🙏"
+115,Friend,Morgan,Jamie,2025-06-25 08:57:07,What's the plan this weekend???
+116,Mixed/Generic,Contact,Contact,2025-01-17 02:46:00,Happy birthday! 🎉
+117,Mixed/Generic,Contact,Friend,2024-12-22 03:25:25,Sending the location now. 😂
+118,Friend,Sam,Jordan,2025-04-29 13:58:38,Did you watch that new series?
+119,Family,Sis,Mom,2025-06-30 20:05:10,Send the grocery list. :)
+120,Work/Colleague,Raj (PM),All,2025-01-08 08:54:22,Any updates on the ticket? 😂
+121,Family,Bro,Mom,2025-08-01 06:48:00,Dinner at mom's on Sunday....
+122,Friend,Jordan,Sam,2025-09-01 19:10:47,That meme you sent cracked me up 😂
+123,Family,Sis,Bro,2025-03-30 19:18:29,Can you pick up some milk?
+124,Family,Aunt,Bro,2025-10-14 08:36:21,How's school/work going???
+125,Friend,Casey,Riley,2025-10-09 22:02:41,Can you pick me up at 6?
+126,Mixed/Generic,Contact,Friend,2025-02-03 04:54:53,See you soon. 😂
+127,Work/Colleague,Emma (HR),Client,2025-08-24 09:04:06,Please share the slides by EOD. 😂
+128,Couple,You,Partner,2025-04-29 18:14:39,I packed your favorite snack. - can't wait
+129,Couple,Partner,Partner,2024-12-04 12:20:24,"Miss you, come home safe.!"
+130,Friend,Alex,Jamie,2025-06-16 21:11:24,Can you pick me up at 6?
+131,Couple,Love,You,2025-04-02 15:20:01,Let's have a movie night in....
+132,Friend,Casey,Jamie,2025-10-29 22:58:06,What's the plan this weekend???
+133,Friend,Riley,Jamie,2025-09-24 05:19:43,Did you watch that new series???
+134,Mixed/Generic,User1,Contact,2025-06-18 10:19:27,See you soon.
+135,Friend,Sam,Taylor,2025-04-03 02:06:10,Can you pick me up at 6?
+136,Family,Bro,Sis,2024-11-28 20:25:28,"Bring umbrellas, it's raining here...."
+137,Couple,Honey,You,2025-02-16 01:06:48,I packed your favorite snack.??
+138,Couple,Love,You,2025-07-06 15:16:19,Love you to the moon.
+139,Couple,Bae,You,2025-06-25 09:00:35,Can't wait to see you later. 😂
+140,Family,Dad,Bro,2025-03-22 17:48:50,Send the grocery list....
+141,Couple,Honey,Partner,2025-08-20 21:41:06,Can't wait to see you later. - can't wait
+142,Family,Bro,Mom,2025-03-27 16:29:58,Dinner at mom's on Sunday. - can't wait
+143,Couple,Honey,You,2025-03-12 08:53:30,Dinner at our place tonight?
+144,Couple,Honey,You,2025-04-06 05:49:15,"Miss you, come home safe...."
+145,Work/Colleague,Priya (Dev),Team,2025-07-12 18:03:11,Let's sync after lunch.??
+146,Family,Uncle,Mom,2024-12-14 10:57:04,Are you coming home this weekend? - can't wait
+147,Couple,Honey,You,2025-10-20 21:49:55,Did you take your meds today?🙏
+148,Family,Dad,Mom,2025-10-05 07:18:20,How's school/work going?!
+149,Work/Colleague,Emma (HR),All,2025-11-11 04:42:18,Meeting moved to 3 PM. 😂
+150,Couple,Bae,Partner,2025-04-19 01:04:46,"Good morning, love ☀️ - can't wait"
+151,Friend,Jordan,Jordan,2025-10-15 08:11:19,Can you pick me up at 6?
+152,Work/Colleague,Priya (Dev),Client,2025-09-12 21:55:33,Who will cover the support shift?🙏
+153,Couple,Honey,Partner,2025-03-31 19:54:26,Can't stop thinking about you.
+154,Family,Mom,Bro,2025-01-28 19:29:16,"Bring umbrellas, it's raining here. - can't wait"
+155,Family,Uncle,Sis,2025-06-23 23:07:35,Are you coming home this weekend???
+156,Mixed/Generic,User1,Friend,2025-02-05 17:18:37,"Sure, works for me.!"
+157,Family,Mom,Bro,2025-11-20 09:46:29,How's school/work going? 😂
+158,Work/Colleague,Chris (Lead),Client,2025-07-30 08:16:37,Can you review the report? 😂
+159,Work/Colleague,Priya (Dev),You,2025-01-08 02:50:31,Great job on the demo!
+160,Mixed/Generic,User2,Group,2025-02-01 17:05:43,LOL that's hilarious!
+161,Work/Colleague,Liam (QA),You,2025-08-27 23:04:08,Meeting moved to 3 PM.!
+162,Friend,Casey,Riley,2025-07-16 12:50:10,What's the plan this weekend?
+163,Mixed/Generic,Contact,Group,2025-03-31 03:38:17,Happy birthday! 🎉
+164,Friend,Morgan,Casey,2025-05-07 05:52:22,"I'm running late, save me a seat."
+165,Friend,Jamie,Casey,2025-01-29 16:30:25,Wanna grab coffee tomorrow? 😂
+166,Work/Colleague,Raj (PM),All,2025-11-12 07:49:21,I'll be WFH tomorrow.??
+167,Work/Colleague,Liam (QA),All,2025-01-03 13:28:34,Reminder: submit timesheets.
+168,Mixed/Generic,Contact,Group,2025-09-15 04:43:43,Happy birthday! 🎉
+169,Mixed/Generic,User2,Friend,2025-07-27 10:48:29,Happy birthday! 🎉
+170,Friend,Casey,Morgan,2025-09-06 15:16:27,I aced the presentation today!🙏
+171,Family,Aunt,Bro,2025-11-08 16:53:20,Send the grocery list. 😂
+172,Friend,Taylor,Casey,2024-12-08 17:00:19,I aced the presentation today!
+173,Family,Mom,Bro,2025-08-20 01:55:55,Don't forget your jacket! 😂
+174,Mixed/Generic,User1,Contact,2024-12-31 07:05:47,"Sure, works for me. :)"
+175,Family,Mom,Sis,2025-09-21 09:49:26,Have you eaten? :)
+176,Friend,Taylor,Taylor,2025-06-10 01:00:26,What's the plan this weekend? :)
+177,Work/Colleague,Raj (PM),You,2025-09-19 10:42:39,Who will cover the support shift?
+178,Friend,Sam,Alex,2025-11-17 17:20:11,Did you watch that new series?
+179,Work/Colleague,Chris (Lead),You,2025-08-27 20:43:04,Great job on the demo!
+180,Friend,Sam,Sam,2025-04-09 17:11:53,Can you pick me up at 6???
+181,Family,Bro,Dad,2025-11-02 06:23:23,Remember to call your grandmother.🙏
+182,Family,Uncle,Mom,2025-03-24 15:45:26,Send the grocery list.
+183,Couple,Honey,Partner,2025-10-14 18:39:07,"Miss you, come home safe."
+184,Family,Dad,Sis,2025-01-04 09:04:02,Remember to call your grandmother.🙏
+185,Family,Bro,Sis,2025-03-11 08:20:12,Don't forget your jacket!??
+186,Couple,Love,You,2025-04-07 22:03:37,"Miss you, come home safe.!"
+187,Couple,Honey,Partner,2025-06-17 14:50:30,I packed your favorite snack.
+188,Couple,Bae,You,2025-10-22 03:03:29,Can't stop thinking about you.??
+189,Work/Colleague,Emma (HR),Team,2025-09-19 10:07:22,Meeting moved to 3 PM. - can't wait
+190,Friend,Casey,Sam,2025-05-27 14:58:51,What's the plan this weekend?!
+191,Work/Colleague,Liam (QA),You,2025-10-02 09:20:18,Can you review the report? - can't wait
+192,Family,Uncle,Bro,2025-09-30 17:37:56,"Bring umbrellas, it's raining here. :)"
+193,Work/Colleague,Raj (PM),You,2025-08-01 14:45:22,I'll be WFH tomorrow.🙏
+194,Work/Colleague,Chris (Lead),Team,2024-12-23 20:38:32,Who will cover the support shift?🙏
+195,Friend,Riley,Casey,2025-11-21 23:46:29,That meme you sent cracked me up 😂 - can't wait
+196,Work/Colleague,Emma (HR),Team,2025-01-05 05:15:48,Who will cover the support shift?
+197,Friend,Taylor,Morgan,2025-04-06 17:58:05,What's the plan this weekend?!
+198,Friend,Casey,Sam,2025-09-07 00:38:54,That meme you sent cracked me up 😂
+199,Work/Colleague,Raj (PM),You,2024-12-21 14:56:30,Can you review the report???
+200,Couple,Honey,Partner,2025-03-08 02:14:08,I packed your favorite snack. :)
+201,Couple,Bae,Partner,2024-12-18 19:09:01,"Miss you, come home safe...."
+202,Friend,Alex,Alex,2025-06-23 22:41:20,Can you pick me up at 6? :)
+203,Work/Colleague,Liam (QA),You,2025-11-21 12:16:13,Do you have the client notes?
+204,Work/Colleague,Priya (Dev),Client,2024-11-29 22:00:05,Please share the slides by EOD....
+205,Family,Mom,Bro,2025-04-16 05:41:50,Don't forget your jacket!
+206,Couple,Bae,Partner,2025-05-01 07:04:22,"Miss you, come home safe.🙏"
+207,Couple,Honey,You,2025-08-29 07:52:28,"Miss you, come home safe. - can't wait"
+208,Couple,You,Partner,2025-07-23 14:31:02,Did you take your meds today?
+209,Family,Mom,Bro,2025-06-04 22:18:45,Take care of the dog while I'm away. 😂
+210,Couple,You,You,2025-03-08 23:19:11,Dinner at our place tonight?...
+211,Mixed/Generic,User2,Contact,2025-07-28 02:38:12,That sounds perfect.
+212,Friend,Jordan,Jordan,2025-08-26 07:31:00,"I'm running late, save me a seat."
+213,Couple,Love,Partner,2024-12-30 07:14:57,Love you to the moon.🙏
+214,Mixed/Generic,Contact,Group,2025-04-14 03:53:36,That sounds perfect.
+215,Couple,Bae,You,2025-03-11 03:40:42,Can't stop thinking about you. - can't wait
+216,Couple,You,You,2025-07-02 03:35:09,I packed your favorite snack. - can't wait
+217,Family,Aunt,Bro,2025-01-31 10:11:51,Remember to call your grandmother.??
+218,Mixed/Generic,User2,Contact,2025-06-13 08:21:07,LOL that's hilarious! :)
+219,Couple,You,Partner,2025-06-03 03:18:33,Dinner at our place tonight?
+220,Family,Mom,Dad,2025-04-14 11:17:56,"Bring umbrellas, it's raining here.??"
+221,Family,Sis,Sis,2025-05-10 15:29:48,"Bring umbrellas, it's raining here. 😂"
+222,Work/Colleague,Raj (PM),You,2025-06-10 02:56:19,Who will cover the support shift?
+223,Family,Sis,Sis,2025-09-09 18:14:32,Are you coming home this weekend?🙏
+224,Friend,Casey,Riley,2025-09-19 08:42:53,Did you watch that new series?!
+225,Work/Colleague,Liam (QA),Client,2025-09-20 11:12:51,Meeting moved to 3 PM. - can't wait
+226,Friend,Casey,Alex,2025-06-19 23:48:59,Can you pick me up at 6? - can't wait
+227,Mixed/Generic,User2,Friend,2025-09-16 00:44:18,That sounds perfect. :)
+228,Friend,Alex,Casey,2025-09-18 08:38:04,Wanna grab coffee tomorrow?🙏
+229,Couple,Partner,You,2025-11-02 15:25:14,Dinner at our place tonight???
+230,Couple,Honey,Partner,2025-07-28 10:56:13,You always make me smile ❤️??
+231,Friend,Taylor,Casey,2025-04-13 13:34:13,I aced the presentation today!🙏
+232,Work/Colleague,Chris (Lead),Client,2025-08-14 08:21:52,Let's sync after lunch.
+233,Friend,Alex,Jamie,2025-02-15 02:38:40,That meme you sent cracked me up 😂 - can't wait
+234,Work/Colleague,Raj (PM),You,2025-09-03 20:26:51,Reminder: submit timesheets.
+235,Couple,Partner,Partner,2025-08-03 13:57:16,Can't wait to see you later.
+236,Work/Colleague,Emma (HR),Team,2025-03-12 16:45:51,Can you review the report?!
+237,Friend,Casey,Taylor,2025-06-15 02:46:19,Wanna grab coffee tomorrow?
+238,Work/Colleague,Priya (Dev),All,2025-07-01 13:10:41,I'll be WFH tomorrow.
+239,Family,Uncle,Bro,2025-01-14 06:11:18,"Bring umbrellas, it's raining here.??"
+240,Mixed/Generic,User2,Friend,2025-02-17 08:12:39,LOL that's hilarious!
+241,Family,Sis,Dad,2025-09-24 04:38:28,Remember to call your grandmother. 😂
+242,Friend,Jamie,Sam,2025-03-14 08:39:11,Call me when you're free.
+243,Family,Aunt,Dad,2025-06-28 14:45:05,Take care of the dog while I'm away.
+244,Friend,Taylor,Morgan,2024-12-20 03:15:45,Let's plan a trip soon!
+245,Family,Mom,Mom,2025-03-30 04:47:40,Don't forget your jacket!!
+246,Family,Sis,Mom,2025-10-21 17:49:33,Don't forget your jacket! - can't wait
+247,Friend,Casey,Jordan,2025-05-28 10:29:59,Wanna grab coffee tomorrow?
+248,Couple,Honey,Partner,2025-09-17 04:04:56,Dinner at our place tonight?
+249,Work/Colleague,Raj (PM),You,2025-11-02 23:07:02,Any updates on the ticket? :)
+250,Work/Colleague,Liam (QA),Client,2025-03-27 21:09:24,I'll be WFH tomorrow....
+251,Friend,Riley,Casey,2024-12-24 18:17:40,"I'm running late, save me a seat."
+252,Friend,Morgan,Morgan,2025-05-11 18:02:08,Let's plan a trip soon!??
+253,Mixed/Generic,Contact,Group,2025-03-04 20:40:07,"Sure, works for me. - can't wait"
+254,Work/Colleague,Raj (PM),Client,2025-08-24 10:31:10,Let's sync after lunch.🙏
+255,Friend,Sam,Casey,2025-06-21 14:08:39,Wanna grab coffee tomorrow? 😂
+256,Family,Dad,Bro,2025-04-11 04:50:15,Are you coming home this weekend? - can't wait
+257,Work/Colleague,Chris (Lead),Client,2025-01-02 04:17:28,I'll be WFH tomorrow. 😂
+258,Friend,Casey,Jordan,2025-09-12 08:15:31,Can you pick me up at 6?
+259,Family,Mom,Dad,2025-07-27 06:53:24,Send the grocery list.
+260,Couple,Love,You,2025-09-07 13:59:54,Let's have a movie night in.🙏
+261,Mixed/Generic,User2,Friend,2025-09-15 11:06:09,That sounds perfect.🙏
+262,Couple,Bae,You,2025-11-11 23:36:21,Did you take your meds today?
+263,Couple,Love,You,2025-07-14 14:07:53,Let's have a movie night in. 😂
+264,Friend,Riley,Jamie,2025-09-24 01:26:16,Call me when you're free. :)
+265,Work/Colleague,Priya (Dev),Client,2024-12-10 18:44:37,Any updates on the ticket?
+266,Family,Aunt,Sis,2025-09-05 07:09:42,Remember to call your grandmother. 😂
+267,Friend,Taylor,Sam,2025-09-14 21:45:37,Let's plan a trip soon! :)
+268,Work/Colleague,Liam (QA),You,2025-02-16 01:39:17,Can you review the report???
+269,Family,Mom,Sis,2025-03-24 11:14:23,Remember to call your grandmother.!
+270,Couple,Love,You,2025-06-15 06:59:34,Let's have a movie night in.
+271,Friend,Casey,Jordan,2025-01-01 08:58:44,I aced the presentation today!...
+272,Friend,Morgan,Alex,2025-03-05 00:48:30,Did you watch that new series?
+273,Couple,Bae,You,2025-03-04 20:02:16,Dinner at our place tonight? - can't wait
+274,Work/Colleague,Priya (Dev),You,2025-01-08 19:21:15,Do you have the client notes?
+275,Family,Aunt,Dad,2025-02-01 00:45:56,Remember to call your grandmother.🙏
+276,Friend,Casey,Alex,2025-10-15 04:43:28,Call me when you're free.
+277,Mixed/Generic,User2,Contact,2025-02-05 15:12:44,See you soon. :)
+278,Family,Bro,Sis,2025-03-22 21:27:50,Have you eaten? 😂
+279,Work/Colleague,Liam (QA),Client,2024-12-08 04:11:54,Let's sync after lunch.
+280,Friend,Jamie,Jamie,2025-06-03 08:17:30,Can you pick me up at 6? :)
+281,Friend,Casey,Morgan,2025-05-19 11:37:47,Let's plan a trip soon!
+282,Family,Dad,Bro,2025-07-11 14:00:37,Don't forget your jacket!
+283,Friend,Alex,Riley,2025-01-13 15:09:21,Wanna grab coffee tomorrow?!
+284,Friend,Casey,Casey,2025-09-04 12:14:18,Did you watch that new series? :)
+285,Mixed/Generic,User2,Group,2025-11-14 03:06:04,"Sure, works for me.??"
+286,Mixed/Generic,User2,Friend,2025-01-30 17:31:52,Thanks a lot! :)
+287,Friend,Jamie,Jamie,2025-02-24 06:04:55,That meme you sent cracked me up 😂 😂
+288,Work/Colleague,Priya (Dev),You,2025-05-02 17:03:22,Let's sync after lunch. - can't wait
+289,Friend,Taylor,Casey,2025-07-01 03:42:09,"Hey, are you free tonight?..."
+290,Couple,Love,Partner,2024-12-11 08:07:56,I packed your favorite snack.🙏
+291,Friend,Morgan,Casey,2025-02-12 17:04:06,Wanna grab coffee tomorrow? - can't wait
+292,Work/Colleague,Chris (Lead),Client,2025-11-05 04:43:48,Great job on the demo!...
+293,Friend,Jamie,Jamie,2025-01-18 11:36:38,Let's plan a trip soon!
+294,Friend,Casey,Jordan,2025-01-13 19:29:05,Call me when you're free.!
+295,Family,Aunt,Bro,2025-06-24 13:05:21,Take care of the dog while I'm away.🙏
+296,Work/Colleague,Liam (QA),Team,2025-01-30 19:10:39,I'll be WFH tomorrow.!
+297,Work/Colleague,Chris (Lead),Client,2024-12-24 09:19:05,Can you review the report? 😂
+298,Family,Aunt,Bro,2025-03-01 07:28:39,Have you eaten?
+299,Work/Colleague,Priya (Dev),All,2025-02-05 02:22:42,Let's sync after lunch.
+300,Friend,Casey,Morgan,2025-04-27 22:57:22,I aced the presentation today!
+301,Couple,Honey,You,2025-03-04 22:49:50,Love you to the moon.
+302,Family,Aunt,Bro,2025-08-28 13:38:37,Send the grocery list. - can't wait
+303,Mixed/Generic,Contact,Group,2025-01-16 12:45:04,That sounds perfect. 😂
+304,Friend,Riley,Riley,2025-06-25 19:51:26,"I'm running late, save me a seat. :)"
+305,Work/Colleague,Liam (QA),Client,2025-02-11 20:25:24,Any updates on the ticket? - can't wait
+306,Friend,Morgan,Morgan,2025-09-11 19:48:16,Call me when you're free. - can't wait
+307,Friend,Casey,Jamie,2025-03-24 22:35:19,Wanna grab coffee tomorrow? 😂
+308,Friend,Riley,Riley,2025-09-30 07:57:48,What's the plan this weekend?
+309,Work/Colleague,Priya (Dev),Team,2025-08-01 07:09:10,Great job on the demo!...
+310,Friend,Morgan,Casey,2025-10-05 01:22:28,Wanna grab coffee tomorrow???
+311,Friend,Jordan,Morgan,2025-03-25 06:41:39,What's the plan this weekend???
+312,Friend,Casey,Riley,2025-10-10 06:37:48,That meme you sent cracked me up 😂
+313,Family,Uncle,Mom,2025-04-25 23:58:46,Take care of the dog while I'm away.
+314,Mixed/Generic,User2,Group,2025-06-30 05:00:56,LOL that's hilarious!
+315,Friend,Sam,Casey,2025-04-06 07:01:48,Call me when you're free. 😂
+316,Family,Dad,Bro,2025-08-19 02:16:42,Send the grocery list. 😂
+317,Couple,Bae,You,2025-06-05 19:38:17,I packed your favorite snack.
+318,Family,Dad,Bro,2025-03-06 18:26:24,Dinner at mom's on Sunday.!
+319,Friend,Jordan,Jordan,2025-06-12 21:20:54,Wanna grab coffee tomorrow???
+320,Friend,Taylor,Jamie,2025-06-09 19:23:10,Can you pick me up at 6? 😂
+321,Family,Mom,Sis,2024-12-05 21:46:34,Can you pick up some milk? - can't wait
+322,Friend,Jamie,Riley,2025-05-01 12:05:00,Wanna grab coffee tomorrow?
+323,Mixed/Generic,Contact,Friend,2025-05-20 08:00:06,Happy birthday! 🎉 😂
+324,Friend,Jamie,Jordan,2025-01-18 16:46:35,Did you watch that new series???
+325,Couple,Honey,You,2024-12-11 08:41:12,Can't wait to see you later. :)
+326,Work/Colleague,Chris (Lead),Client,2024-11-29 17:12:27,Meeting moved to 3 PM....
+327,Friend,Sam,Alex,2025-03-11 23:01:09,Call me when you're free....
+328,Family,Dad,Sis,2025-04-13 02:08:51,"Bring umbrellas, it's raining here...."
+329,Family,Bro,Mom,2025-04-11 04:21:14,Can you pick up some milk?...
+330,Couple,Honey,Partner,2025-10-26 10:02:04,Can't wait to see you later.🙏
+331,Couple,You,Partner,2025-11-23 22:26:46,Can't stop thinking about you. 😂
+332,Family,Bro,Sis,2025-02-21 04:11:09,Have you eaten?
+333,Mixed/Generic,User2,Friend,2025-04-29 23:49:36,"BRB, phone's dying. 😂"
+334,Work/Colleague,Liam (QA),Client,2025-05-15 16:42:10,Let's sync after lunch.??
+335,Friend,Jordan,Casey,2025-08-25 10:49:07,What's the plan this weekend?
+336,Couple,Partner,You,2025-06-25 13:31:20,Dinner at our place tonight?
+337,Family,Bro,Bro,2025-07-21 13:36:31,Take care of the dog while I'm away. :)
+338,Couple,Partner,You,2024-12-21 15:06:56,Can't stop thinking about you.
+339,Family,Dad,Dad,2025-10-04 08:45:17,Have you eaten?
+340,Friend,Alex,Taylor,2025-05-03 14:23:51,Call me when you're free.
+341,Friend,Alex,Jordan,2025-06-29 21:51:14,"I'm running late, save me a seat...."
+342,Work/Colleague,Liam (QA),You,2025-06-24 01:09:49,Who will cover the support shift? :)
+343,Mixed/Generic,User1,Group,2025-07-08 04:09:37,Thanks a lot! 😂
+344,Family,Uncle,Dad,2025-02-13 12:20:04,Can you pick up some milk?!
+345,Friend,Morgan,Casey,2025-04-30 00:56:48,Let's plan a trip soon!!
+346,Friend,Jamie,Taylor,2025-06-25 01:07:26,Did you watch that new series? :)
+347,Work/Colleague,Chris (Lead),Client,2025-02-12 11:04:59,Can you review the report?!
+348,Friend,Riley,Taylor,2024-12-29 03:30:03,"I'm running late, save me a seat. - can't wait"
+349,Mixed/Generic,User1,Contact,2025-10-29 20:36:19,That sounds perfect. :)
+350,Couple,Love,You,2025-08-20 08:59:11,Love you to the moon.
+351,Work/Colleague,Priya (Dev),Client,2025-06-07 19:20:27,Reminder: submit timesheets. :)
+352,Mixed/Generic,User1,Friend,2025-03-24 21:32:49,LOL that's hilarious!
+353,Family,Bro,Dad,2025-06-13 20:04:25,Dinner at mom's on Sunday....
+354,Couple,Bae,Partner,2025-05-24 11:42:31,Can't wait to see you later. 😂
+355,Work/Colleague,Raj (PM),Client,2025-08-12 16:52:57,Any updates on the ticket? - can't wait
+356,Couple,Love,You,2025-11-16 20:53:06,"Good morning, love ☀️"
+357,Family,Aunt,Bro,2025-09-07 23:14:11,Can you pick up some milk? 😂
+358,Couple,Love,You,2025-02-16 06:32:46,Let's have a movie night in.??
+359,Mixed/Generic,User2,Group,2025-04-04 00:15:16,That sounds perfect.??
+360,Work/Colleague,Priya (Dev),All,2025-03-19 23:40:43,I'll be WFH tomorrow....
+361,Mixed/Generic,Contact,Friend,2025-11-08 03:40:24,Thanks a lot!...
+362,Mixed/Generic,User1,Group,2025-01-06 21:57:12,LOL that's hilarious!
+363,Friend,Alex,Taylor,2025-04-05 16:47:30,Did you watch that new series?...
+364,Friend,Jamie,Jamie,2025-11-21 11:00:08,Call me when you're free.
+365,Family,Mom,Sis,2025-07-02 05:45:20,Have you eaten?...
+366,Family,Dad,Mom,2025-03-02 00:57:30,Are you coming home this weekend?
+367,Friend,Riley,Casey,2025-05-06 03:30:09,Call me when you're free. 😂
+368,Couple,Honey,You,2025-06-25 03:26:40,Let's have a movie night in. :)
+369,Family,Mom,Bro,2025-05-15 10:15:23,Have you eaten?!
+370,Couple,Partner,You,2025-04-16 06:53:57,"Good morning, love ☀️??"
+371,Work/Colleague,Raj (PM),Team,2025-08-08 09:44:37,Who will cover the support shift? :)
+372,Couple,You,Partner,2025-02-09 06:25:07,"Good morning, love ☀️..."
+373,Friend,Alex,Taylor,2025-09-12 15:52:41,Let's plan a trip soon!🙏
+374,Mixed/Generic,User1,Contact,2025-02-07 16:12:39,Happy birthday! 🎉 :)
+375,Family,Sis,Bro,2024-12-08 03:31:27,Take care of the dog while I'm away.
+376,Family,Mom,Mom,2025-07-30 03:36:43,Don't forget your jacket!!
+377,Couple,Love,Partner,2025-11-09 07:17:31,Love you to the moon. - can't wait
+378,Friend,Jamie,Taylor,2025-02-14 16:42:39,I aced the presentation today! - can't wait
+379,Couple,Honey,You,2025-06-26 21:24:24,Love you to the moon.🙏
+380,Work/Colleague,Liam (QA),All,2024-11-25 07:18:00,Meeting moved to 3 PM.!
+381,Friend,Casey,Casey,2025-10-10 06:11:26,Can you pick me up at 6?
+382,Mixed/Generic,User2,Group,2025-09-19 03:12:04,"Sure, works for me."
+383,Friend,Morgan,Sam,2025-10-10 17:29:38,I aced the presentation today!
+384,Family,Aunt,Sis,2025-11-18 19:45:13,Can you pick up some milk?!
+385,Couple,Love,You,2025-03-04 00:12:19,"Miss you, come home safe.🙏"
+386,Family,Dad,Sis,2025-07-10 12:25:32,"Bring umbrellas, it's raining here. 😂"
+387,Friend,Morgan,Riley,2025-06-24 12:44:57,Did you watch that new series?!
+388,Work/Colleague,Liam (QA),All,2025-01-24 07:55:38,I'll be WFH tomorrow.??
+389,Friend,Jordan,Riley,2025-05-06 18:17:02,Wanna grab coffee tomorrow?
+390,Work/Colleague,Liam (QA),Client,2025-04-18 06:40:34,Let's sync after lunch. - can't wait
+391,Mixed/Generic,User2,Group,2024-12-04 23:04:00,On my way 🚗🙏
+392,Couple,Honey,Partner,2024-12-04 07:20:11,Dinner at our place tonight? 😂
+393,Couple,Partner,Partner,2025-07-04 16:04:24,Love you to the moon.!
+394,Couple,Partner,You,2025-11-11 13:34:21,Love you to the moon....
+395,Mixed/Generic,User2,Group,2025-04-29 12:12:02,Sending the location now.
+396,Friend,Taylor,Riley,2025-04-22 16:39:14,That meme you sent cracked me up 😂
+397,Friend,Jamie,Morgan,2025-03-10 15:08:59,Call me when you're free....
+398,Family,Uncle,Mom,2025-07-20 06:26:13,Don't forget your jacket!
+399,Family,Uncle,Mom,2024-12-29 06:49:57,"Bring umbrellas, it's raining here.🙏"
+400,Couple,Honey,You,2025-10-05 20:57:33,Did you take your meds today?
+401,Friend,Taylor,Jamie,2025-05-08 13:31:12,What's the plan this weekend? - can't wait
+402,Work/Colleague,Chris (Lead),All,2025-11-12 12:48:09,Who will cover the support shift? - can't wait
+403,Friend,Sam,Sam,2025-05-30 19:01:26,Can you pick me up at 6?
+404,Couple,Love,Partner,2025-03-27 02:49:31,You always make me smile ❤️ - can't wait
+405,Couple,Bae,You,2025-11-03 02:11:22,I packed your favorite snack. 😂
+406,Friend,Sam,Jordan,2025-03-06 00:01:41,Let's plan a trip soon! :)
+407,Family,Aunt,Bro,2025-07-29 15:37:56,Don't forget your jacket!??
+408,Family,Uncle,Bro,2025-11-10 08:01:14,"Bring umbrellas, it's raining here.!"
+409,Work/Colleague,Chris (Lead),Client,2025-11-22 22:33:33,Any updates on the ticket?!
+410,Friend,Sam,Jordan,2025-06-11 23:12:16,Wanna grab coffee tomorrow? - can't wait
+411,Couple,Honey,Partner,2025-05-10 08:07:21,Can't stop thinking about you.🙏
+412,Couple,Bae,Partner,2025-01-13 00:05:53,"Miss you, come home safe.??"
+413,Work/Colleague,Chris (Lead),Team,2025-06-18 02:05:18,Do you have the client notes?
+414,Friend,Jordan,Casey,2025-03-08 16:14:10,Wanna grab coffee tomorrow?
+415,Couple,Love,Partner,2025-08-21 12:39:38,Dinner at our place tonight?!
+416,Family,Aunt,Dad,2025-07-01 01:16:18,"Bring umbrellas, it's raining here.??"
+417,Friend,Alex,Casey,2025-03-22 01:24:31,I aced the presentation today!
+418,Friend,Jamie,Morgan,2025-04-26 14:13:10,Can you pick me up at 6???
+419,Couple,Love,You,2025-06-29 05:11:21,"Miss you, come home safe. :)"
+420,Friend,Riley,Jordan,2025-02-08 12:20:45,What's the plan this weekend???
+421,Family,Aunt,Mom,2025-02-19 17:01:21,Remember to call your grandmother. 😂
+422,Family,Uncle,Bro,2025-08-05 14:54:01,Have you eaten?...
+423,Friend,Riley,Alex,2025-07-13 17:41:18,"I'm running late, save me a seat.??"
+424,Work/Colleague,Emma (HR),Team,2025-08-09 08:58:26,Meeting moved to 3 PM. :)
+425,Family,Uncle,Bro,2025-01-14 01:18:37,Can you pick up some milk?
+426,Work/Colleague,Raj (PM),You,2025-07-04 08:38:55,Great job on the demo!...
+427,Family,Uncle,Sis,2025-02-04 20:38:45,Don't forget your jacket! 😂
+428,Mixed/Generic,Contact,Friend,2025-04-29 04:13:16,Thanks a lot!
+429,Mixed/Generic,Contact,Friend,2025-09-11 18:39:09,On my way 🚗 :)
+430,Work/Colleague,Emma (HR),All,2025-01-05 20:35:45,Let's sync after lunch.🙏
+431,Family,Bro,Mom,2025-05-02 11:36:24,Are you coming home this weekend?
+432,Work/Colleague,Emma (HR),Client,2025-02-01 06:17:22,I'll be WFH tomorrow. - can't wait
+433,Work/Colleague,Emma (HR),You,2025-02-24 15:53:57,Meeting moved to 3 PM.
+434,Friend,Taylor,Jamie,2025-06-12 20:03:15,Can you pick me up at 6? 😂
+435,Couple,Partner,Partner,2024-12-11 04:37:01,Love you to the moon. - can't wait
+436,Friend,Alex,Sam,2025-04-13 13:45:30,I aced the presentation today!
+437,Friend,Taylor,Jordan,2025-09-04 20:24:10,Can you pick me up at 6? 😂
+438,Friend,Riley,Sam,2024-12-19 06:45:12,Let's plan a trip soon! - can't wait
+439,Friend,Riley,Taylor,2024-12-25 03:03:33,Can you pick me up at 6?!
+440,Work/Colleague,Priya (Dev),Client,2025-09-18 08:45:52,Can you review the report?
+441,Friend,Alex,Alex,2025-09-24 15:00:13,I aced the presentation today! - can't wait
+442,Family,Mom,Dad,2025-10-11 02:39:01,Send the grocery list.!
+443,Friend,Riley,Jordan,2025-09-17 07:01:14,Let's plan a trip soon!!
+444,Mixed/Generic,User1,Contact,2025-11-20 08:09:31,On my way 🚗🙏
+445,Family,Sis,Dad,2025-04-28 07:56:56,Send the grocery list.
+446,Family,Mom,Mom,2025-09-22 08:54:50,Dinner at mom's on Sunday.
+447,Work/Colleague,Emma (HR),You,2025-07-21 20:17:44,I'll be WFH tomorrow.
+448,Family,Aunt,Sis,2024-12-22 19:23:49,Dinner at mom's on Sunday.
+449,Friend,Taylor,Morgan,2024-12-30 04:23:34,Call me when you're free. 😂
+450,Work/Colleague,Emma (HR),Client,2025-07-24 12:11:25,Great job on the demo!
+451,Family,Aunt,Mom,2025-06-16 01:34:27,Remember to call your grandmother. - can't wait
+452,Couple,Honey,Partner,2024-12-11 00:05:21,Love you to the moon....
+453,Work/Colleague,Raj (PM),Team,2025-07-13 22:31:29,Meeting moved to 3 PM.
+454,Friend,Morgan,Riley,2025-04-26 14:57:28,"Hey, are you free tonight?..."
+455,Work/Colleague,Chris (Lead),All,2025-10-13 19:05:46,Meeting moved to 3 PM. 😂
+456,Friend,Jordan,Casey,2025-01-28 07:17:08,"I'm running late, save me a seat.!"
+457,Work/Colleague,Liam (QA),Client,2025-10-26 21:28:42,Meeting moved to 3 PM. :)
+458,Friend,Sam,Jamie,2025-01-18 04:22:34,Can you pick me up at 6?🙏
+459,Couple,You,You,2024-12-01 05:57:59,Dinner at our place tonight?
+460,Friend,Riley,Jordan,2025-09-21 20:35:39,Let's plan a trip soon! - can't wait
+461,Work/Colleague,Raj (PM),You,2025-07-08 11:18:24,Meeting moved to 3 PM.!
+462,Friend,Sam,Jamie,2025-03-08 17:16:04,Call me when you're free.??
+463,Friend,Jordan,Casey,2025-07-18 02:37:59,Call me when you're free.
+464,Work/Colleague,Priya (Dev),Team,2025-11-18 21:28:33,Meeting moved to 3 PM.
+465,Friend,Morgan,Jordan,2025-11-06 10:15:01,Let's plan a trip soon!
+466,Work/Colleague,Priya (Dev),You,2025-04-25 18:43:52,Let's sync after lunch. :)
+467,Friend,Casey,Sam,2024-12-16 04:27:43,Wanna grab coffee tomorrow?...
+468,Friend,Alex,Morgan,2025-03-31 20:06:04,What's the plan this weekend?
+469,Work/Colleague,Liam (QA),Team,2025-04-06 06:05:22,Do you have the client notes?...
+470,Couple,Love,Partner,2025-07-23 13:29:19,Can't stop thinking about you.🙏
+471,Couple,Partner,You,2025-11-21 15:27:02,I packed your favorite snack.
+472,Friend,Casey,Alex,2025-11-24 06:26:52,What's the plan this weekend? - can't wait
+473,Couple,You,You,2025-07-26 15:05:40,Can't stop thinking about you....
+474,Couple,Partner,Partner,2025-11-02 21:57:07,"Good morning, love ☀️"
+475,Work/Colleague,Emma (HR),You,2025-10-12 09:14:04,Reminder: submit timesheets.??
+476,Friend,Morgan,Sam,2025-02-08 04:06:43,Did you watch that new series?🙏
+477,Couple,Partner,Partner,2025-06-16 16:04:21,Dinner at our place tonight? 😂
+478,Work/Colleague,Liam (QA),Client,2025-07-29 03:39:37,I'll be WFH tomorrow. 😂
+479,Mixed/Generic,Contact,Friend,2025-10-02 00:23:42,On my way 🚗
+480,Couple,Honey,You,2025-05-25 22:49:11,Did you take your meds today?...
+481,Couple,Bae,You,2025-09-05 19:18:12,I packed your favorite snack.
+482,Work/Colleague,Raj (PM),All,2025-09-11 03:03:31,Who will cover the support shift? - can't wait
+483,Work/Colleague,Emma (HR),Team,2025-07-15 00:02:57,I'll be WFH tomorrow. 😂
+484,Friend,Jamie,Taylor,2025-04-03 02:40:09,Can you pick me up at 6?
+485,Work/Colleague,Raj (PM),Team,2025-08-04 01:37:13,Please share the slides by EOD.
+486,Friend,Casey,Sam,2025-01-28 20:57:22,Can you pick me up at 6?🙏
+487,Mixed/Generic,User1,Friend,2024-12-29 14:14:05,"BRB, phone's dying. :)"
+488,Work/Colleague,Liam (QA),Team,2025-04-03 04:32:09,Meeting moved to 3 PM.
+489,Friend,Morgan,Morgan,2025-11-09 16:26:41,Call me when you're free.??
+490,Family,Sis,Dad,2025-07-07 20:11:25,"Bring umbrellas, it's raining here."
+491,Couple,You,You,2025-03-14 15:22:46,Dinner at our place tonight? 😂
+492,Work/Colleague,Raj (PM),Team,2025-05-13 01:22:59,Any updates on the ticket? 😂
+493,Couple,Partner,You,2024-11-24 17:18:17,Can't wait to see you later.!
+494,Couple,Bae,Partner,2025-07-09 23:49:58,I packed your favorite snack.!
+495,Friend,Taylor,Alex,2025-10-26 13:12:22,Call me when you're free. 😂
+496,Family,Dad,Dad,2025-07-21 06:27:50,Can you pick up some milk?
+497,Friend,Alex,Taylor,2025-05-10 17:27:42,What's the plan this weekend?🙏
+498,Mixed/Generic,User1,Friend,2025-06-15 17:19:00,On my way 🚗🙏
+499,Mixed/Generic,Contact,Contact,2025-02-07 09:51:33,LOL that's hilarious! - can't wait
+500,Friend,Jamie,Riley,2025-03-19 04:59:51,"I'm running late, save me a seat."
+501,Friend,Taylor,Alex,2025-03-26 06:21:17,"I'm running late, save me a seat...."
+502,Couple,Partner,You,2025-08-26 18:35:53,Love you to the moon. - can't wait
+503,Friend,Jordan,Sam,2025-05-23 03:44:20,Did you watch that new series?...
+504,Couple,Love,You,2025-06-23 18:38:02,Let's have a movie night in. - can't wait
+505,Friend,Morgan,Jamie,2025-08-27 09:55:07,Did you watch that new series? - can't wait
+506,Family,Sis,Dad,2025-08-27 16:36:11,Can you pick up some milk?🙏
+507,Couple,Partner,You,2024-11-30 09:31:24,Can't stop thinking about you.
+508,Couple,You,You,2025-06-15 08:07:12,Love you to the moon.🙏
+509,Friend,Sam,Jamie,2025-06-09 03:32:48,Call me when you're free.
+510,Friend,Jordan,Sam,2025-04-11 05:57:53,Let's plan a trip soon! - can't wait
+511,Friend,Sam,Casey,2025-10-01 06:19:59,"I'm running late, save me a seat. 😂"
+512,Friend,Morgan,Jordan,2025-03-17 16:35:28,I aced the presentation today!!
+513,Couple,You,Partner,2024-12-26 22:09:59,Let's have a movie night in.🙏
+514,Friend,Alex,Riley,2025-06-14 20:52:20,Wanna grab coffee tomorrow?
+515,Mixed/Generic,User2,Friend,2025-09-04 03:38:56,"BRB, phone's dying.!"
+516,Family,Sis,Bro,2025-04-18 06:34:53,Remember to call your grandmother.
+517,Friend,Jordan,Alex,2025-06-08 22:53:45,Can you pick me up at 6?
+518,Mixed/Generic,Contact,Contact,2025-07-12 20:07:47,I can't believe this happened!...
+519,Friend,Alex,Morgan,2025-02-16 12:30:17,Wanna grab coffee tomorrow?🙏
+520,Friend,Alex,Morgan,2025-06-27 07:37:15,Let's plan a trip soon!
+521,Family,Mom,Mom,2025-08-29 07:08:38,Dinner at mom's on Sunday. :)
+522,Friend,Jamie,Sam,2025-05-05 13:13:59,Wanna grab coffee tomorrow? 😂
+523,Couple,You,Partner,2025-05-19 16:29:30,Can't stop thinking about you.
+524,Couple,You,Partner,2025-03-31 20:47:22,I packed your favorite snack.??
+525,Friend,Alex,Jordan,2025-10-12 17:51:45,That meme you sent cracked me up 😂
+526,Work/Colleague,Chris (Lead),All,2025-10-24 16:17:08,Let's sync after lunch....
+527,Work/Colleague,Chris (Lead),Client,2025-07-27 13:02:22,Let's sync after lunch.🙏
+528,Friend,Alex,Jordan,2025-04-10 00:05:07,Can you pick me up at 6?
+529,Mixed/Generic,User1,Friend,2025-11-03 14:57:54,On my way 🚗
+530,Friend,Taylor,Jordan,2025-07-15 18:44:16,Can you pick me up at 6?🙏
+531,Mixed/Generic,User1,Group,2025-05-05 10:16:48,"BRB, phone's dying...."
+532,Couple,Love,Partner,2024-12-01 07:41:41,Can't stop thinking about you.
+533,Family,Mom,Bro,2025-09-10 09:45:02,Are you coming home this weekend?
+534,Family,Mom,Mom,2025-02-23 17:51:35,Remember to call your grandmother. 😂
+535,Work/Colleague,Emma (HR),Client,2025-01-17 13:09:23,Do you have the client notes?🙏
+536,Friend,Morgan,Jordan,2025-01-17 15:45:12,That meme you sent cracked me up 😂🙏
+537,Friend,Taylor,Alex,2025-07-10 16:49:10,Let's plan a trip soon!??
+538,Friend,Riley,Riley,2024-12-04 02:48:13,That meme you sent cracked me up 😂??
+539,Mixed/Generic,User1,Group,2025-06-13 20:34:13,Sending the location now.??
+540,Work/Colleague,Raj (PM),All,2025-08-08 15:33:18,Who will cover the support shift???
+541,Work/Colleague,Liam (QA),Team,2025-09-05 03:59:26,Reminder: submit timesheets....
+542,Couple,Honey,You,2025-02-07 05:19:32,Can't wait to see you later....
+543,Friend,Alex,Taylor,2025-04-06 04:32:20,"I'm running late, save me a seat."
+544,Mixed/Generic,User2,Group,2025-03-11 15:55:38,Sending the location now.??
+545,Family,Uncle,Mom,2025-05-18 12:35:00,Remember to call your grandmother. :)
+546,Family,Bro,Sis,2025-09-02 20:57:43,"Bring umbrellas, it's raining here. - can't wait"
+547,Work/Colleague,Liam (QA),Team,2025-10-31 00:26:54,Meeting moved to 3 PM.!
+548,Work/Colleague,Priya (Dev),All,2025-07-10 06:39:22,Great job on the demo! :)
+549,Couple,You,Partner,2024-12-29 00:04:25,"Good morning, love ☀️"
+550,Family,Dad,Sis,2025-06-21 06:58:41,Have you eaten?🙏
+551,Friend,Casey,Jamie,2025-08-05 13:23:15,Can you pick me up at 6? 😂
+552,Couple,Love,Partner,2025-10-04 06:06:43,Can't wait to see you later.🙏
+553,Family,Aunt,Sis,2024-12-10 02:26:37,Don't forget your jacket! 😂
+554,Couple,Bae,Partner,2025-07-14 06:29:28,Did you take your meds today? 😂
+555,Work/Colleague,Priya (Dev),All,2025-07-25 04:18:45,Do you have the client notes?...
+556,Work/Colleague,Emma (HR),You,2025-11-11 06:31:02,Who will cover the support shift?
+557,Couple,Bae,Partner,2025-05-11 05:05:37,Can't stop thinking about you.!
+558,Family,Dad,Sis,2024-12-08 10:54:51,Can you pick up some milk? :)
+559,Family,Uncle,Sis,2025-06-25 00:11:26,Send the grocery list....
+560,Work/Colleague,Priya (Dev),You,2025-03-29 01:43:17,Reminder: submit timesheets.
+561,Work/Colleague,Priya (Dev),You,2025-08-03 17:26:39,Reminder: submit timesheets.
+562,Friend,Morgan,Casey,2025-07-14 09:03:35,That meme you sent cracked me up 😂 - can't wait
+563,Friend,Jamie,Alex,2025-01-31 07:46:56,Wanna grab coffee tomorrow?🙏
+564,Friend,Sam,Morgan,2025-06-25 15:20:20,"I'm running late, save me a seat...."
+565,Friend,Jordan,Taylor,2025-04-29 09:38:54,Did you watch that new series? - can't wait
+566,Work/Colleague,Priya (Dev),You,2025-10-14 12:37:38,Any updates on the ticket?
+567,Couple,Bae,You,2025-04-07 20:25:15,Dinner at our place tonight?
+568,Friend,Jordan,Jamie,2025-09-19 08:00:25,Did you watch that new series?
+569,Couple,Honey,Partner,2025-05-13 06:12:35,Let's have a movie night in.??
+570,Friend,Casey,Alex,2025-02-26 23:26:27,"I'm running late, save me a seat. - can't wait"
+571,Friend,Taylor,Taylor,2025-06-19 01:41:07,"Hey, are you free tonight? - can't wait"
+572,Friend,Riley,Jordan,2025-11-01 19:31:21,What's the plan this weekend?
+573,Mixed/Generic,Contact,Contact,2025-03-01 18:04:46,"Sure, works for me.🙏"
+574,Couple,Bae,Partner,2025-08-21 00:22:35,Dinner at our place tonight? - can't wait
+575,Mixed/Generic,User1,Friend,2025-09-18 22:41:25,I can't believe this happened! :)
+576,Work/Colleague,Chris (Lead),All,2025-05-21 06:41:39,Who will cover the support shift?
+577,Work/Colleague,Liam (QA),Team,2025-11-01 02:26:36,Let's sync after lunch.🙏
+578,Family,Mom,Mom,2025-04-11 16:32:06,Have you eaten?!
+579,Friend,Jamie,Jordan,2024-12-04 07:25:50,That meme you sent cracked me up 😂 :)
+580,Friend,Sam,Riley,2025-01-19 01:23:08,Can you pick me up at 6?🙏
+581,Couple,Love,You,2025-09-28 02:30:38,"Miss you, come home safe. 😂"
+582,Couple,Partner,Partner,2025-08-13 17:20:53,Love you to the moon....
+583,Work/Colleague,Priya (Dev),Team,2025-03-15 22:49:04,Do you have the client notes?...
+584,Family,Sis,Dad,2025-11-19 03:08:21,Send the grocery list.
+585,Mixed/Generic,Contact,Group,2025-10-09 11:44:56,See you soon.
+586,Friend,Riley,Taylor,2025-06-26 20:45:47,Wanna grab coffee tomorrow???
+587,Couple,Partner,You,2025-05-24 18:59:39,"Miss you, come home safe. 😂"
+588,Couple,You,You,2025-09-15 06:48:57,"Miss you, come home safe."
+589,Friend,Jamie,Riley,2025-05-18 17:54:05,Let's plan a trip soon!
+590,Friend,Morgan,Jamie,2025-05-11 12:58:02,Can you pick me up at 6? 😂
+591,Work/Colleague,Raj (PM),All,2025-09-05 02:36:13,Please share the slides by EOD.
+592,Couple,Honey,Partner,2025-01-16 16:33:12,Love you to the moon.
+593,Work/Colleague,Raj (PM),All,2025-03-21 02:16:04,Who will cover the support shift???
+594,Work/Colleague,Raj (PM),Team,2024-12-24 18:56:19,Any updates on the ticket? 😂
+595,Friend,Taylor,Casey,2025-03-02 07:52:13,What's the plan this weekend?...
+596,Friend,Jamie,Casey,2025-09-09 10:03:03,"I'm running late, save me a seat.!"
+597,Work/Colleague,Raj (PM),Team,2025-03-11 13:17:36,Who will cover the support shift?
+598,Work/Colleague,Raj (PM),Client,2025-07-24 18:19:55,Please share the slides by EOD. - can't wait
+599,Mixed/Generic,Contact,Friend,2024-12-30 16:35:38,LOL that's hilarious!...
+600,Couple,You,Partner,2025-02-04 14:03:53,You always make me smile ❤️??
+601,Friend,Jamie,Casey,2025-03-15 06:35:28,I aced the presentation today!
+602,Friend,Morgan,Alex,2025-02-17 06:22:24,Can you pick me up at 6?...
+603,Work/Colleague,Chris (Lead),You,2025-02-10 22:50:54,Who will cover the support shift?...
+604,Family,Sis,Sis,2025-08-02 13:50:00,Send the grocery list.
+605,Couple,Love,Partner,2025-04-08 02:13:41,Love you to the moon. - can't wait
+606,Friend,Alex,Casey,2025-01-04 19:44:56,"I'm running late, save me a seat. - can't wait"
+607,Family,Uncle,Mom,2025-09-01 12:27:04,Don't forget your jacket!
+608,Friend,Sam,Riley,2025-08-16 23:33:05,Can you pick me up at 6?🙏
+609,Friend,Taylor,Jamie,2025-06-05 02:27:21,Can you pick me up at 6? :)
+610,Work/Colleague,Chris (Lead),Team,2025-04-04 06:24:21,Can you review the report???
+611,Family,Dad,Bro,2025-02-27 04:36:40,Take care of the dog while I'm away.
+612,Family,Aunt,Bro,2025-08-26 09:18:54,Are you coming home this weekend?...
+613,Friend,Sam,Morgan,2025-01-18 18:39:42,Did you watch that new series?🙏
+614,Family,Bro,Dad,2025-05-05 17:53:47,Are you coming home this weekend? 😂
+615,Mixed/Generic,User1,Friend,2025-01-20 11:43:39,"Sure, works for me.!"
+616,Friend,Casey,Taylor,2025-08-09 07:39:16,What's the plan this weekend? :)
+617,Work/Colleague,Priya (Dev),All,2025-02-20 07:11:30,I'll be WFH tomorrow....
+618,Couple,Bae,Partner,2025-02-05 15:10:47,"Miss you, come home safe.🙏"
+619,Family,Sis,Bro,2025-03-03 02:30:11,Take care of the dog while I'm away.
+620,Friend,Alex,Alex,2025-07-12 00:31:12,Did you watch that new series? :)
+621,Mixed/Generic,User1,Friend,2025-08-12 10:40:34,Happy birthday! 🎉 😂
+622,Friend,Sam,Taylor,2025-05-09 21:43:44,I aced the presentation today!...
+623,Family,Uncle,Mom,2025-05-10 15:12:46,How's school/work going?!
+624,Mixed/Generic,Contact,Friend,2025-07-19 22:59:07,That sounds perfect.
+625,Family,Dad,Sis,2025-02-18 08:24:39,Send the grocery list.🙏
+626,Friend,Riley,Jamie,2024-12-11 03:40:06,"I'm running late, save me a seat."
+627,Friend,Sam,Morgan,2025-04-19 20:13:03,Did you watch that new series?
+628,Family,Dad,Sis,2025-06-08 13:24:04,"Bring umbrellas, it's raining here."
+629,Work/Colleague,Raj (PM),All,2025-01-24 04:31:41,Please share the slides by EOD. - can't wait
+630,Work/Colleague,Liam (QA),Client,2025-02-16 17:20:32,Who will cover the support shift?🙏
+631,Friend,Taylor,Jordan,2025-10-21 11:59:17,Let's plan a trip soon!...
+632,Friend,Morgan,Sam,2025-08-03 22:36:42,What's the plan this weekend? - can't wait
+633,Family,Sis,Sis,2025-01-12 11:03:53,Don't forget your jacket! :)
+634,Couple,You,You,2025-04-10 21:37:44,Can't wait to see you later. - can't wait
+635,Mixed/Generic,Contact,Friend,2024-12-10 18:41:41,See you soon.
+636,Couple,Honey,Partner,2025-07-04 05:28:48,"Miss you, come home safe...."
+637,Mixed/Generic,Contact,Contact,2025-03-21 04:46:59,That sounds perfect.??
+638,Friend,Casey,Sam,2025-08-31 10:47:33,"I'm running late, save me a seat."
+639,Family,Dad,Dad,2025-10-02 22:53:41,Remember to call your grandmother.!
+640,Family,Uncle,Mom,2025-11-12 13:39:35,Are you coming home this weekend?
+641,Work/Colleague,Raj (PM),Team,2025-08-25 21:12:28,Can you review the report?
+642,Family,Dad,Sis,2025-05-10 13:57:17,Can you pick up some milk?!
+643,Family,Sis,Mom,2024-12-16 02:04:20,Are you coming home this weekend?!
+644,Family,Mom,Mom,2025-05-25 12:04:19,Can you pick up some milk?
+645,Friend,Sam,Riley,2025-05-13 15:59:38,That meme you sent cracked me up 😂??
+646,Work/Colleague,Emma (HR),All,2025-08-05 01:24:51,Can you review the report?...
+647,Work/Colleague,Liam (QA),All,2024-12-13 06:47:20,Reminder: submit timesheets. 😂
+648,Couple,Love,You,2025-11-04 06:11:47,"Good morning, love ☀️"
+649,Family,Aunt,Mom,2025-08-09 17:51:37,Are you coming home this weekend? 😂
+650,Friend,Jordan,Jordan,2025-08-03 07:55:10,What's the plan this weekend?
+651,Work/Colleague,Raj (PM),All,2025-10-28 10:23:47,Great job on the demo!🙏
+652,Couple,You,Partner,2025-07-20 02:48:15,Can't wait to see you later.
+653,Friend,Jamie,Casey,2025-09-20 06:30:52,Call me when you're free. - can't wait
+654,Friend,Sam,Taylor,2025-03-21 13:58:19,That meme you sent cracked me up 😂 - can't wait
+655,Couple,Love,You,2025-02-07 17:06:32,Can't stop thinking about you.🙏
+656,Work/Colleague,Priya (Dev),Team,2025-07-21 22:18:51,Let's sync after lunch. - can't wait
+657,Work/Colleague,Liam (QA),You,2024-12-12 18:18:28,Let's sync after lunch.
+658,Work/Colleague,Emma (HR),You,2025-03-20 10:17:38,Any updates on the ticket? 😂
+659,Friend,Sam,Riley,2025-02-22 23:13:40,Call me when you're free.
+660,Friend,Sam,Alex,2025-01-06 05:14:38,Wanna grab coffee tomorrow?...
+661,Work/Colleague,Emma (HR),All,2025-02-15 20:53:27,Who will cover the support shift?
+662,Family,Bro,Dad,2025-05-08 22:14:57,Take care of the dog while I'm away. - can't wait
+663,Work/Colleague,Liam (QA),All,2025-03-13 11:47:46,Who will cover the support shift???
+664,Friend,Alex,Taylor,2024-12-10 00:20:29,Let's plan a trip soon!🙏
+665,Work/Colleague,Emma (HR),All,2025-02-08 09:46:44,Please share the slides by EOD.
+666,Family,Uncle,Bro,2025-11-04 22:24:45,"Bring umbrellas, it's raining here. - can't wait"
+667,Work/Colleague,Raj (PM),You,2025-07-29 04:49:16,Great job on the demo! - can't wait
+668,Family,Sis,Bro,2025-04-07 04:41:20,Take care of the dog while I'm away.??
+669,Friend,Sam,Riley,2025-02-01 10:33:37,Let's plan a trip soon! 😂
+670,Family,Uncle,Bro,2025-01-28 06:35:32,Are you coming home this weekend? - can't wait
+671,Work/Colleague,Chris (Lead),You,2025-08-02 11:34:45,Meeting moved to 3 PM.!
+672,Couple,Honey,Partner,2025-11-21 12:06:30,Did you take your meds today?🙏
+673,Work/Colleague,Priya (Dev),All,2025-03-06 06:57:05,Any updates on the ticket?
+674,Friend,Jordan,Jordan,2025-01-21 02:04:17,Did you watch that new series? - can't wait
+675,Family,Sis,Mom,2024-12-14 12:56:47,Are you coming home this weekend???
+676,Couple,Partner,Partner,2025-07-24 04:48:31,Love you to the moon.
+677,Friend,Jordan,Jordan,2025-11-04 09:32:38,Call me when you're free....
+678,Friend,Riley,Jordan,2025-05-01 08:33:28,Did you watch that new series?...
+679,Mixed/Generic,Contact,Contact,2025-10-12 22:29:37,LOL that's hilarious! 😂
+680,Couple,Honey,You,2025-04-28 08:30:13,I packed your favorite snack. :)
+681,Friend,Jordan,Riley,2024-12-08 17:54:12,Call me when you're free.
+682,Mixed/Generic,Contact,Friend,2025-05-15 16:20:43,See you soon. :)
+683,Friend,Taylor,Morgan,2025-01-19 02:52:24,"Hey, are you free tonight?"
+684,Friend,Alex,Sam,2025-03-24 01:38:04,Call me when you're free.
+685,Mixed/Generic,User1,Contact,2025-03-02 15:03:47,Thanks a lot!!
+686,Couple,Love,Partner,2025-03-23 16:29:57,"Good morning, love ☀️ :)"
+687,Couple,You,Partner,2025-07-17 13:00:27,Love you to the moon.
+688,Work/Colleague,Liam (QA),Client,2025-08-21 06:10:50,Meeting moved to 3 PM. 😂
+689,Work/Colleague,Chris (Lead),Team,2025-11-21 16:43:31,Can you review the report?...
+690,Family,Bro,Sis,2025-09-06 14:52:00,Don't forget your jacket!
+691,Family,Sis,Bro,2025-05-21 08:06:06,How's school/work going?🙏
+692,Friend,Taylor,Morgan,2025-02-12 12:48:48,Can you pick me up at 6?...
+693,Friend,Jamie,Riley,2025-02-02 17:50:31,What's the plan this weekend? 😂
+694,Work/Colleague,Priya (Dev),Team,2025-04-11 00:29:20,Let's sync after lunch. :)
+695,Friend,Morgan,Casey,2025-01-15 04:29:04,What's the plan this weekend?...
+696,Friend,Sam,Jordan,2025-01-21 14:31:41,"Hey, are you free tonight???"
+697,Friend,Taylor,Casey,2025-01-18 05:00:18,That meme you sent cracked me up 😂
+698,Work/Colleague,Chris (Lead),You,2025-10-26 23:59:53,Let's sync after lunch.🙏
+699,Family,Mom,Dad,2025-07-01 23:17:21,Send the grocery list....
+700,Friend,Taylor,Jordan,2025-05-24 21:40:07,Call me when you're free.
+701,Family,Mom,Sis,2025-05-28 15:59:34,"Bring umbrellas, it's raining here.!"
+702,Couple,Love,You,2025-10-09 10:22:10,You always make me smile ❤️
+703,Friend,Casey,Casey,2025-08-01 08:18:09,What's the plan this weekend? 😂
+704,Mixed/Generic,User2,Contact,2025-07-15 00:00:24,"Sure, works for me."
+705,Couple,Love,You,2025-06-27 18:00:06,"Miss you, come home safe...."
+706,Mixed/Generic,User2,Contact,2025-07-19 14:15:32,Thanks a lot!🙏
+707,Mixed/Generic,User2,Friend,2025-04-04 13:36:19,See you soon. - can't wait
+708,Work/Colleague,Emma (HR),Team,2025-10-21 16:26:49,Can you review the report? 😂
+709,Family,Uncle,Dad,2025-04-27 17:31:25,Dinner at mom's on Sunday. - can't wait
+710,Family,Uncle,Sis,2025-07-01 02:59:36,Have you eaten? :)
+711,Couple,You,You,2025-06-17 17:30:28,Did you take your meds today???
+712,Friend,Riley,Jordan,2025-03-14 23:06:36,Call me when you're free. :)
+713,Friend,Riley,Taylor,2025-08-13 21:17:18,"I'm running late, save me a seat. :)"
+714,Work/Colleague,Priya (Dev),Team,2025-10-15 12:26:32,I'll be WFH tomorrow.
+715,Family,Mom,Bro,2025-01-11 18:53:44,Take care of the dog while I'm away. - can't wait
+716,Couple,Bae,Partner,2025-03-08 20:10:31,Love you to the moon.
+717,Couple,Partner,You,2025-04-22 12:57:52,Love you to the moon....
+718,Mixed/Generic,Contact,Group,2024-12-09 00:00:55,LOL that's hilarious!!
+719,Couple,Love,Partner,2024-12-08 06:04:23,"Miss you, come home safe. - can't wait"
+720,Friend,Morgan,Sam,2025-05-23 08:04:08,"I'm running late, save me a seat. - can't wait"
+721,Work/Colleague,Chris (Lead),You,2025-07-10 13:13:06,Please share the slides by EOD. :)
+722,Mixed/Generic,User2,Friend,2025-04-21 22:42:52,That sounds perfect.??
+723,Couple,Bae,Partner,2025-04-08 23:49:48,Did you take your meds today? 😂
+724,Family,Uncle,Dad,2025-07-09 21:47:39,Can you pick up some milk?
+725,Family,Dad,Dad,2025-03-28 06:01:30,Are you coming home this weekend?
+726,Friend,Jordan,Casey,2025-06-24 21:14:31,I aced the presentation today!??
+727,Family,Mom,Bro,2024-12-07 00:25:57,Can you pick up some milk?
+728,Friend,Jamie,Sam,2025-06-06 20:55:18,That meme you sent cracked me up 😂??
+729,Couple,Love,Partner,2025-11-14 15:23:16,Can't wait to see you later. - can't wait
+730,Friend,Taylor,Jordan,2025-05-27 18:32:36,Call me when you're free. 😂
+731,Family,Uncle,Bro,2025-05-13 08:02:12,Send the grocery list.
+732,Friend,Jordan,Casey,2025-01-05 08:05:10,Did you watch that new series?!
+733,Family,Mom,Dad,2025-07-31 18:57:58,Remember to call your grandmother. - can't wait
+734,Couple,Bae,Partner,2025-04-11 17:09:26,Can't stop thinking about you. 😂
+735,Work/Colleague,Emma (HR),Client,2025-08-23 05:32:19,Reminder: submit timesheets.
+736,Friend,Riley,Sam,2025-08-31 15:55:25,"I'm running late, save me a seat. :)"
+737,Friend,Jamie,Alex,2025-05-05 11:18:07,Wanna grab coffee tomorrow?
+738,Work/Colleague,Raj (PM),You,2025-09-07 03:18:36,Meeting moved to 3 PM.🙏
+739,Family,Sis,Dad,2025-07-02 14:14:41,Are you coming home this weekend? :)
+740,Family,Aunt,Dad,2025-11-07 17:23:15,"Bring umbrellas, it's raining here."
+741,Work/Colleague,Emma (HR),Client,2025-07-08 10:24:28,I'll be WFH tomorrow....
+742,Couple,Partner,Partner,2025-04-16 11:19:16,Can't wait to see you later.🙏
+743,Family,Sis,Sis,2025-02-21 22:06:36,Take care of the dog while I'm away.??
+744,Work/Colleague,Liam (QA),You,2025-07-15 00:42:36,Any updates on the ticket?!
+745,Couple,Love,You,2025-07-01 13:17:48,"Good morning, love ☀️ - can't wait"
+746,Family,Bro,Sis,2025-04-18 19:42:53,Send the grocery list.
+747,Family,Aunt,Sis,2025-04-28 09:58:14,Have you eaten? :)
+748,Couple,Partner,Partner,2025-08-04 20:48:17,You always make me smile ❤️!
+749,Friend,Riley,Riley,2025-07-10 15:20:46,"I'm running late, save me a seat...."
+750,Friend,Jordan,Jordan,2025-09-29 07:11:28,Wanna grab coffee tomorrow? 😂
+751,Couple,Bae,Partner,2025-06-14 05:40:24,I packed your favorite snack. :)
+752,Friend,Alex,Jordan,2025-07-03 20:34:43,What's the plan this weekend?
+753,Friend,Alex,Taylor,2025-09-09 05:50:36,I aced the presentation today!
+754,Couple,Honey,Partner,2025-05-18 13:29:50,Did you take your meds today???
+755,Family,Sis,Mom,2025-10-27 20:40:35,Have you eaten?
+756,Work/Colleague,Chris (Lead),Client,2025-08-18 21:16:28,Meeting moved to 3 PM.
+757,Work/Colleague,Raj (PM),All,2025-04-12 21:22:50,Can you review the report?!
+758,Work/Colleague,Priya (Dev),Client,2025-03-03 22:47:25,Can you review the report?
+759,Couple,Bae,You,2025-02-16 11:24:48,Can't stop thinking about you.
+760,Friend,Riley,Taylor,2025-10-29 22:27:01,I aced the presentation today! - can't wait
+761,Mixed/Generic,Contact,Group,2025-11-18 00:17:10,Sending the location now. - can't wait
+762,Work/Colleague,Raj (PM),Client,2025-11-21 04:51:02,Who will cover the support shift? :)
+763,Family,Uncle,Dad,2025-10-10 21:19:26,Send the grocery list. - can't wait
+764,Friend,Casey,Alex,2025-05-26 06:54:41,Wanna grab coffee tomorrow?
+765,Friend,Sam,Jordan,2025-07-28 18:50:51,What's the plan this weekend???
+766,Mixed/Generic,User2,Contact,2025-11-14 16:37:32,That sounds perfect. :)
+767,Couple,Bae,You,2024-11-28 14:27:02,Dinner at our place tonight???
+768,Family,Uncle,Bro,2025-02-07 23:35:05,Take care of the dog while I'm away. :)
+769,Family,Uncle,Bro,2025-01-22 10:11:24,Don't forget your jacket! 😂
+770,Friend,Jordan,Jamie,2025-07-13 10:39:37,What's the plan this weekend? 😂
+771,Couple,Love,Partner,2025-11-15 07:48:57,"Good morning, love ☀️"
+772,Work/Colleague,Priya (Dev),You,2024-12-22 10:45:24,Who will cover the support shift?
+773,Work/Colleague,Chris (Lead),Client,2025-09-07 08:03:34,Great job on the demo!...
+774,Friend,Casey,Sam,2025-03-02 06:23:24,Can you pick me up at 6?
+775,Friend,Jordan,Alex,2025-10-01 12:42:28,Did you watch that new series? :)
+776,Friend,Morgan,Jamie,2025-01-09 08:53:15,"Hey, are you free tonight?..."
+777,Friend,Taylor,Sam,2025-08-10 06:30:16,Let's plan a trip soon!
+778,Couple,Honey,You,2025-02-12 15:14:07,"Miss you, come home safe. - can't wait"
+779,Work/Colleague,Chris (Lead),You,2025-11-05 03:49:01,Can you review the report?...
+780,Work/Colleague,Priya (Dev),Team,2025-07-29 11:01:21,Meeting moved to 3 PM.
+781,Couple,Love,You,2025-01-08 23:51:58,You always make me smile ❤️🙏
+782,Family,Bro,Mom,2025-05-25 13:40:41,Take care of the dog while I'm away.🙏
+783,Work/Colleague,Raj (PM),All,2025-02-16 15:45:34,Let's sync after lunch.
+784,Family,Aunt,Bro,2025-06-16 10:21:06,"Bring umbrellas, it's raining here. - can't wait"
+785,Mixed/Generic,User2,Group,2025-06-12 08:13:41,That sounds perfect.!
+786,Friend,Taylor,Morgan,2025-07-17 17:16:19,What's the plan this weekend?...
+787,Mixed/Generic,User2,Friend,2025-07-02 08:41:19,"Sure, works for me."
+788,Friend,Riley,Alex,2025-08-03 22:33:29,Did you watch that new series? 😂
+789,Work/Colleague,Liam (QA),All,2025-11-05 13:37:05,Can you review the report?
+790,Couple,Bae,Partner,2025-07-20 21:53:47,Dinner at our place tonight?🙏
+791,Friend,Sam,Morgan,2025-08-06 03:34:08,That meme you sent cracked me up 😂🙏
+792,Work/Colleague,Priya (Dev),Client,2025-10-07 08:42:28,Any updates on the ticket?🙏
+793,Family,Uncle,Bro,2025-10-27 18:12:17,Have you eaten?
+794,Couple,Honey,You,2024-12-25 08:27:02,Let's have a movie night in. :)
+795,Mixed/Generic,User1,Group,2025-11-03 18:45:13,I can't believe this happened!...
+796,Family,Sis,Dad,2025-10-30 16:04:31,"Bring umbrellas, it's raining here."
+797,Mixed/Generic,Contact,Contact,2025-08-03 14:39:12,See you soon.
+798,Friend,Jordan,Jordan,2025-10-13 13:03:15,Can you pick me up at 6? - can't wait
+799,Family,Aunt,Bro,2025-10-12 15:52:11,Have you eaten? 😂
+800,Family,Dad,Bro,2025-08-15 12:37:02,"Bring umbrellas, it's raining here...."
+801,Couple,Partner,You,2025-10-19 20:41:08,Love you to the moon. :)
+802,Work/Colleague,Chris (Lead),Team,2024-12-16 15:19:17,I'll be WFH tomorrow.
+803,Couple,Partner,Partner,2025-01-24 06:31:01,Did you take your meds today? - can't wait
+804,Friend,Jordan,Casey,2025-04-12 07:41:25,That meme you sent cracked me up 😂🙏
+805,Friend,Taylor,Taylor,2025-09-07 03:15:19,"Hey, are you free tonight? - can't wait"
+806,Friend,Taylor,Jordan,2025-11-17 17:52:53,"Hey, are you free tonight? 😂"
+807,Family,Sis,Bro,2025-11-13 18:17:47,Remember to call your grandmother.??
+808,Friend,Taylor,Taylor,2025-03-02 20:57:44,What's the plan this weekend?...
+809,Family,Uncle,Dad,2025-05-16 09:09:11,Can you pick up some milk?
+810,Mixed/Generic,User1,Group,2025-10-25 20:02:20,Thanks a lot!
+811,Friend,Riley,Alex,2024-12-25 06:04:34,Call me when you're free.??
+812,Friend,Casey,Sam,2025-06-28 06:44:07,That meme you sent cracked me up 😂
+813,Couple,Love,You,2025-03-21 08:38:23,Let's have a movie night in. - can't wait
+814,Family,Dad,Bro,2024-11-26 05:35:50,"Bring umbrellas, it's raining here...."
+815,Friend,Riley,Casey,2025-05-08 00:39:48,What's the plan this weekend???
+816,Friend,Casey,Riley,2025-03-13 20:20:07,Let's plan a trip soon! :)
+817,Work/Colleague,Emma (HR),Team,2025-07-04 22:09:59,Do you have the client notes?...
+818,Friend,Jordan,Sam,2025-03-03 08:04:52,Can you pick me up at 6?!
+819,Work/Colleague,Emma (HR),All,2025-09-07 14:51:09,Great job on the demo!🙏
+820,Mixed/Generic,User2,Group,2025-09-18 22:51:06,See you soon....
+821,Family,Aunt,Dad,2025-06-19 11:18:30,Can you pick up some milk?
+822,Mixed/Generic,User1,Contact,2025-09-05 18:49:12,I can't believe this happened!🙏
+823,Friend,Sam,Jordan,2025-09-12 05:18:22,What's the plan this weekend? - can't wait
+824,Work/Colleague,Emma (HR),You,2025-01-02 20:24:39,Let's sync after lunch.??
+825,Friend,Sam,Jordan,2025-11-11 08:05:53,"I'm running late, save me a seat."
+826,Family,Aunt,Dad,2025-07-29 21:58:20,Can you pick up some milk?🙏
+827,Family,Mom,Bro,2025-03-12 08:21:46,Don't forget your jacket!
+828,Couple,Partner,Partner,2025-03-28 01:22:22,Did you take your meds today???
+829,Friend,Alex,Morgan,2025-07-09 15:20:28,"I'm running late, save me a seat."
+830,Friend,Taylor,Sam,2025-04-14 07:54:47,"I'm running late, save me a seat."
+831,Couple,Honey,You,2025-05-02 04:51:24,Did you take your meds today?!
+832,Family,Uncle,Sis,2025-01-15 09:33:22,Are you coming home this weekend?!
+833,Family,Uncle,Mom,2025-09-30 13:56:13,Take care of the dog while I'm away....
+834,Couple,Partner,Partner,2025-02-12 16:16:29,"Good morning, love ☀️"
+835,Family,Dad,Sis,2025-05-05 19:17:28,Have you eaten???
+836,Work/Colleague,Emma (HR),All,2025-06-27 08:03:22,Do you have the client notes?!
+837,Mixed/Generic,User1,Group,2025-10-09 12:09:04,Thanks a lot!??
+838,Friend,Jordan,Morgan,2025-06-12 13:57:48,Call me when you're free.!
+839,Friend,Taylor,Jamie,2025-07-19 18:34:49,I aced the presentation today!
+840,Family,Uncle,Mom,2025-09-27 14:01:03,"Bring umbrellas, it's raining here."
+841,Family,Aunt,Bro,2025-01-16 00:33:28,Remember to call your grandmother....
+842,Couple,You,You,2025-02-09 00:54:54,Let's have a movie night in. - can't wait
+843,Friend,Jordan,Alex,2025-06-20 19:06:37,Did you watch that new series?!
+844,Work/Colleague,Liam (QA),All,2025-09-18 22:59:38,Any updates on the ticket?
+845,Friend,Alex,Jamie,2025-03-14 10:35:29,That meme you sent cracked me up 😂??
+846,Work/Colleague,Emma (HR),All,2025-01-27 13:03:34,Who will cover the support shift? :)
+847,Couple,You,You,2025-02-17 20:15:14,I packed your favorite snack. :)
+848,Family,Dad,Mom,2025-09-11 04:22:29,Take care of the dog while I'm away.
+849,Family,Dad,Mom,2025-01-20 19:30:49,Have you eaten?🙏
+850,Couple,You,You,2025-08-26 00:30:20,"Miss you, come home safe.!"
+851,Family,Uncle,Dad,2025-02-01 17:15:56,Can you pick up some milk???
+852,Mixed/Generic,User2,Group,2025-05-15 03:54:57,"BRB, phone's dying. - can't wait"
+853,Work/Colleague,Raj (PM),You,2025-09-18 01:56:13,Reminder: submit timesheets.??
+854,Family,Sis,Bro,2025-08-09 22:46:06,How's school/work going?...
+855,Family,Aunt,Mom,2024-12-07 08:21:37,Remember to call your grandmother.??
+856,Mixed/Generic,User2,Contact,2025-07-15 11:15:02,Happy birthday! 🎉 - can't wait
+857,Family,Sis,Dad,2025-02-09 12:18:23,Can you pick up some milk?🙏
+858,Family,Bro,Dad,2025-07-28 19:48:12,Send the grocery list.🙏
+859,Mixed/Generic,User1,Friend,2025-01-09 02:05:10,LOL that's hilarious!??
+860,Work/Colleague,Chris (Lead),Client,2025-11-01 18:13:36,Great job on the demo!!
+861,Couple,You,You,2025-07-18 03:54:35,You always make me smile ❤️ 😂
+862,Couple,Love,Partner,2025-09-27 18:14:42,Can't wait to see you later.
+863,Couple,Love,You,2025-08-17 18:20:45,Love you to the moon.
+864,Work/Colleague,Emma (HR),Team,2025-03-24 00:43:20,Any updates on the ticket?
+865,Family,Sis,Bro,2025-10-27 11:24:28,Take care of the dog while I'm away.!
+866,Friend,Alex,Taylor,2024-12-09 18:18:07,Let's plan a trip soon!🙏
+867,Work/Colleague,Raj (PM),All,2025-11-09 18:01:53,I'll be WFH tomorrow. 😂
+868,Mixed/Generic,User1,Contact,2025-05-09 23:33:26,Thanks a lot!🙏
+869,Family,Uncle,Sis,2025-07-08 15:18:40,How's school/work going?
+870,Friend,Casey,Jamie,2025-08-06 11:15:41,"I'm running late, save me a seat. 😂"
+871,Couple,Bae,You,2025-10-08 14:13:20,"Miss you, come home safe. :)"
+872,Family,Aunt,Dad,2025-06-03 12:46:37,Send the grocery list. :)
+873,Work/Colleague,Liam (QA),You,2025-10-05 11:35:14,Reminder: submit timesheets.
+874,Family,Dad,Mom,2025-05-10 11:21:42,"Bring umbrellas, it's raining here.??"
+875,Friend,Alex,Sam,2025-03-31 04:41:59,That meme you sent cracked me up 😂 - can't wait
+876,Friend,Alex,Riley,2025-06-13 23:04:39,That meme you sent cracked me up 😂 :)
+877,Friend,Casey,Jamie,2025-07-09 00:56:35,That meme you sent cracked me up 😂
+878,Friend,Alex,Sam,2025-02-20 17:37:30,Wanna grab coffee tomorrow? :)
+879,Family,Dad,Sis,2025-07-23 00:08:37,How's school/work going?🙏
+880,Friend,Casey,Jamie,2025-09-20 05:19:26,Call me when you're free.
+881,Couple,You,Partner,2025-10-11 14:51:09,"Good morning, love ☀️"
+882,Couple,Love,Partner,2025-05-26 19:00:14,Love you to the moon.🙏
+883,Couple,Love,You,2025-02-08 01:34:52,You always make me smile ❤️??
+884,Friend,Sam,Jamie,2024-12-09 06:55:01,I aced the presentation today! 😂
+885,Work/Colleague,Emma (HR),All,2025-09-12 07:55:03,Any updates on the ticket? :)
+886,Friend,Morgan,Jordan,2025-06-11 13:52:34,Let's plan a trip soon! - can't wait
+887,Couple,Honey,You,2025-03-24 13:35:11,"Miss you, come home safe. - can't wait"
+888,Work/Colleague,Liam (QA),All,2025-10-03 15:36:32,Do you have the client notes?...
+889,Work/Colleague,Liam (QA),Team,2025-02-25 13:35:46,Meeting moved to 3 PM. 😂
+890,Couple,Partner,You,2025-09-04 12:49:01,Let's have a movie night in....
+891,Couple,Partner,Partner,2025-02-07 17:55:14,Did you take your meds today?!
+892,Family,Dad,Mom,2025-03-21 02:13:02,Dinner at mom's on Sunday.🙏
+893,Family,Sis,Mom,2025-08-26 19:09:52,Send the grocery list.??
+894,Mixed/Generic,Contact,Friend,2025-05-14 18:27:32,"BRB, phone's dying.🙏"
+895,Couple,You,You,2025-01-31 07:13:07,"Good morning, love ☀️"
+896,Work/Colleague,Priya (Dev),Client,2025-06-28 16:10:51,Please share the slides by EOD....
+897,Family,Dad,Dad,2025-06-24 09:36:59,Send the grocery list. - can't wait
+898,Work/Colleague,Emma (HR),You,2025-01-31 06:05:02,Do you have the client notes?
+899,Family,Bro,Dad,2025-10-24 16:56:12,Take care of the dog while I'm away. 😂
+900,Mixed/Generic,User1,Contact,2025-05-26 02:23:08,LOL that's hilarious!...
+901,Work/Colleague,Priya (Dev),Client,2025-05-07 07:36:58,Can you review the report?🙏
+902,Couple,Honey,Partner,2025-02-18 22:41:22,Let's have a movie night in.!
+903,Family,Dad,Dad,2025-05-12 17:15:43,Send the grocery list....
+904,Work/Colleague,Liam (QA),All,2025-11-20 03:46:03,Please share the slides by EOD.
+905,Family,Uncle,Bro,2025-09-17 03:17:49,"Bring umbrellas, it's raining here.!"
+906,Friend,Jamie,Morgan,2025-08-24 13:50:08,Can you pick me up at 6?🙏
+907,Family,Bro,Bro,2025-08-01 23:36:54,Take care of the dog while I'm away. - can't wait
+908,Couple,Love,Partner,2024-11-25 12:06:44,"Good morning, love ☀️ :)"
+909,Friend,Casey,Alex,2025-02-07 12:47:04,What's the plan this weekend?
+910,Work/Colleague,Chris (Lead),Client,2025-09-13 11:12:49,Meeting moved to 3 PM.
+911,Mixed/Generic,User2,Contact,2025-03-02 08:10:03,Happy birthday! 🎉
+912,Friend,Sam,Riley,2025-10-28 17:52:17,I aced the presentation today!🙏
+913,Family,Bro,Bro,2025-03-29 09:28:56,Have you eaten?...
+914,Work/Colleague,Liam (QA),You,2025-09-01 05:05:36,Let's sync after lunch. 😂
+915,Family,Uncle,Sis,2025-07-15 04:08:36,Can you pick up some milk?🙏
+916,Family,Dad,Mom,2025-01-10 05:23:08,Can you pick up some milk? 😂
+917,Friend,Jordan,Sam,2025-07-19 01:33:14,Wanna grab coffee tomorrow? 😂
+918,Family,Sis,Mom,2025-01-20 00:01:20,How's school/work going?
+919,Mixed/Generic,Contact,Group,2025-08-27 20:52:04,On my way 🚗 - can't wait
+920,Work/Colleague,Emma (HR),All,2025-11-08 17:53:49,Great job on the demo!...
+921,Mixed/Generic,Contact,Friend,2025-04-27 16:25:44,On my way 🚗??
+922,Friend,Jordan,Taylor,2025-06-02 04:24:06,I aced the presentation today!🙏
+923,Family,Mom,Dad,2025-05-04 13:02:26,Remember to call your grandmother.??
+924,Couple,Partner,Partner,2025-03-27 20:49:04,Can't wait to see you later.!
+925,Friend,Alex,Riley,2025-05-13 18:53:09,Can you pick me up at 6???
+926,Mixed/Generic,User1,Contact,2025-04-17 08:09:09,LOL that's hilarious! - can't wait
+927,Mixed/Generic,User2,Group,2025-10-05 21:04:58,Happy birthday! 🎉 😂
+928,Family,Bro,Dad,2025-08-17 11:26:55,Are you coming home this weekend?🙏
+929,Couple,Bae,You,2025-10-22 05:56:39,Dinner at our place tonight?
+930,Couple,You,Partner,2025-08-04 20:03:54,Can't wait to see you later. - can't wait
+931,Friend,Alex,Sam,2025-01-24 06:28:24,"Hey, are you free tonight?"
+932,Work/Colleague,Chris (Lead),Team,2025-10-11 08:21:49,Great job on the demo!
+933,Friend,Jordan,Sam,2025-07-18 19:39:17,Call me when you're free.
+934,Couple,Honey,Partner,2024-12-05 18:36:17,"Miss you, come home safe.!"
+935,Friend,Riley,Alex,2025-05-10 18:16:05,Wanna grab coffee tomorrow?!
+936,Mixed/Generic,User2,Friend,2025-10-20 12:28:36,Happy birthday! 🎉??
+937,Mixed/Generic,Contact,Group,2024-12-29 12:27:52,Sending the location now.
+938,Friend,Morgan,Taylor,2024-12-31 02:30:40,What's the plan this weekend?🙏
+939,Mixed/Generic,User1,Friend,2025-10-19 09:34:39,Happy birthday! 🎉
+940,Work/Colleague,Raj (PM),Client,2024-12-25 07:03:56,Any updates on the ticket?
+941,Friend,Morgan,Riley,2024-12-01 18:22:15,"Hey, are you free tonight?"
+942,Mixed/Generic,User1,Contact,2025-03-25 14:30:12,See you soon.??
+943,Couple,Love,You,2025-05-12 12:49:41,"Miss you, come home safe."
+944,Friend,Casey,Casey,2025-05-04 04:22:12,What's the plan this weekend? 😂
+945,Family,Sis,Sis,2025-04-03 19:49:21,Remember to call your grandmother.
+946,Family,Aunt,Mom,2024-12-21 23:25:31,"Bring umbrellas, it's raining here.!"
+947,Friend,Sam,Casey,2025-10-12 07:20:25,Can you pick me up at 6???
+948,Couple,Partner,You,2025-11-12 08:47:28,You always make me smile ❤️ :)
+949,Friend,Sam,Riley,2025-02-24 14:01:15,Can you pick me up at 6???
+950,Mixed/Generic,User1,Group,2025-06-06 04:49:15,LOL that's hilarious!
+951,Couple,Love,Partner,2025-09-09 09:17:10,You always make me smile ❤️...
+952,Friend,Alex,Jordan,2024-12-26 05:41:08,Wanna grab coffee tomorrow???
+953,Couple,You,You,2025-11-18 00:06:29,Love you to the moon.
+954,Family,Mom,Bro,2025-08-29 08:51:37,How's school/work going?🙏
+955,Friend,Sam,Jamie,2025-01-13 22:20:56,Wanna grab coffee tomorrow?🙏
+956,Friend,Morgan,Casey,2025-06-12 01:58:53,"I'm running late, save me a seat.!"
+957,Mixed/Generic,Contact,Friend,2025-08-08 04:43:11,See you soon. - can't wait
+958,Family,Mom,Mom,2025-09-13 15:15:51,Don't forget your jacket! 😂
+959,Friend,Jordan,Jamie,2025-02-01 04:53:52,Let's plan a trip soon! :)
+960,Friend,Morgan,Jordan,2025-03-21 03:26:26,Call me when you're free.
+961,Friend,Sam,Riley,2024-12-04 13:02:55,Did you watch that new series?!
+962,Family,Dad,Sis,2025-04-08 15:22:41,Dinner at mom's on Sunday....
+963,Friend,Alex,Jordan,2025-01-16 03:10:29,Did you watch that new series???
+964,Family,Sis,Bro,2025-02-12 21:48:01,How's school/work going?
+965,Friend,Sam,Casey,2025-03-10 22:23:46,What's the plan this weekend?...
+966,Couple,Bae,You,2025-09-29 00:56:48,You always make me smile ❤️ :)
+967,Family,Bro,Dad,2024-12-17 04:48:35,Send the grocery list.
+968,Friend,Riley,Taylor,2025-07-19 18:12:30,Let's plan a trip soon!!
+969,Family,Mom,Mom,2025-02-22 23:58:33,Send the grocery list.
+970,Friend,Jamie,Sam,2025-07-27 14:11:03,"Hey, are you free tonight?"
+971,Family,Bro,Dad,2025-07-31 02:22:11,Don't forget your jacket! - can't wait
+972,Couple,Partner,Partner,2025-05-16 22:20:44,"Miss you, come home safe. :)"
+973,Friend,Jamie,Alex,2025-09-11 22:30:33,Call me when you're free.!
+974,Mixed/Generic,User1,Group,2025-09-16 13:42:50,"Sure, works for me. - can't wait"
+975,Work/Colleague,Liam (QA),All,2025-09-21 05:12:40,I'll be WFH tomorrow. - can't wait
+976,Family,Sis,Dad,2025-03-31 13:41:00,Have you eaten?
+977,Couple,Partner,Partner,2025-09-05 07:09:03,Did you take your meds today?🙏
+978,Mixed/Generic,Contact,Contact,2025-10-11 15:23:25,On my way 🚗 :)
+979,Work/Colleague,Priya (Dev),Client,2025-07-06 05:51:05,Any updates on the ticket???
+980,Work/Colleague,Priya (Dev),You,2025-02-01 22:16:55,Great job on the demo!!
+981,Work/Colleague,Priya (Dev),Team,2025-11-03 04:55:16,Who will cover the support shift?!
+982,Mixed/Generic,User1,Group,2025-05-07 12:55:48,Thanks a lot!...
+983,Work/Colleague,Emma (HR),Client,2025-10-13 10:02:44,Meeting moved to 3 PM. :)
+984,Work/Colleague,Priya (Dev),All,2025-06-26 21:40:32,Let's sync after lunch. - can't wait
+985,Family,Mom,Bro,2025-09-03 13:39:27,Remember to call your grandmother. 😂
+986,Work/Colleague,Raj (PM),Client,2025-09-15 15:37:15,Who will cover the support shift???
+987,Friend,Jamie,Alex,2025-05-11 18:15:32,Let's plan a trip soon!
+988,Family,Bro,Sis,2025-02-20 09:26:10,How's school/work going?🙏
+989,Work/Colleague,Chris (Lead),You,2025-03-06 17:07:38,Meeting moved to 3 PM.
+990,Work/Colleague,Emma (HR),You,2025-01-13 04:53:29,Meeting moved to 3 PM.??
+991,Couple,Love,You,2024-11-26 22:55:34,Dinner at our place tonight?...
+992,Friend,Taylor,Sam,2025-01-31 22:44:28,Let's plan a trip soon!??
+993,Work/Colleague,Liam (QA),You,2025-03-12 14:58:52,Great job on the demo! 😂
+994,Friend,Casey,Casey,2025-03-21 12:07:20,Wanna grab coffee tomorrow???
+995,Family,Bro,Sis,2025-01-11 16:58:33,Remember to call your grandmother.??
+996,Work/Colleague,Priya (Dev),Client,2025-10-14 16:09:19,Meeting moved to 3 PM.
+997,Work/Colleague,Raj (PM),Team,2025-07-07 02:18:03,Do you have the client notes?
+998,Family,Dad,Dad,2025-01-08 05:33:12,Send the grocery list....
+999,Friend,Jordan,Jamie,2025-04-23 14:13:09,What's the plan this weekend? - can't wait
+1000,Work/Colleague,Liam (QA),All,2025-11-13 21:55:15,Can you review the report?
